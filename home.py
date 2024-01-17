@@ -11,8 +11,8 @@ def main():
         img = Image.open('twitter image.jpg')
         st.image(img)
     
-    elif choice == 'Objective':
-        objective()
+    # elif choice == 'Objective':
+    #     objective()
         
     elif choice == 'Data':
         data()
