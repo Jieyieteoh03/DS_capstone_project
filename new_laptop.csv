@@ -1,0 +1,1001 @@
+CompanyName,TypeOfLaptop,ScreenResolution,Cpu,Ram,Memory,Gpu,OpSys,R_inches,R_weight,MYR_price
+MSI,Business Laptop,4K,Intel Core i7,12GB,SSD,Intel Iris Xe Graphics,Linux,17,2.06,2043.11
+Chuwi,2 in 1 Convertible,Full HD,Intel Core i5,12GB,SSD,Intel Iris Xe Graphics,No OS,17,4.06,2110.09
+hp,WorkStation,Full HD,Intel Xeon E3-1505M ,8GB,HDD,Intel Iris Xe Graphics,Linux,17,2.9,1899.77
+MSI,2 in 1 Convertible,2K,Intel Core i7,16GB,SSD,Intel Iris Xe Graphics,Windows 10,12,2.91,3911.97
+Microsoft,Gaming,Full HD,Intel Core i5,8GB,SSD,AMD Radeon RX 5600M,Windows 10,13,4.34,1929.02
+Apple,WorkStation,Full HD,Intel Atom x5-Z8550,16GB,SSD,NVIDIA GeForce GTX 1650,macOS,16,3.58,4784.44
+lenevo,NoteBook,2K,Intel Xeon E3-1505M ,8GB,SSD,Intel Iris Xe Graphics,Windows 11,16,4.05,3585.07
+Asus,UltraBook,Full HD,Intel Celeron Dual Core 3855U ,12GB,SSD,NVIDIA GeForce GTX 1650,macOS,18,4.4,2047.39
+Microsoft,Business Laptop,4K,Intel Core i9,12GB,SSD,NVIDIA GeForce GTX 1650,Linux,13,3.7,2565.68
+Microsoft,UltraBook,Full HD,AMD A9-Series 9420,8GB,SSD,NVIDIA GeForce GTX 1650,No OS,15,3.66,3002.15
+Microsoft,Gaming,2K,AMD Ryzen 5,8GB,SSD,Intel Iris Xe Graphics,Windows 11,14,2.21,2552.9
+MSI,2 in 1 Convertible,Full HD,Intel Core i7,4GB,SSD,AMD Radeon RX 5600M,Linux,12,3.23,3282.03
+Acer,NoteBook,Full HD,Intel Core i5,4GB,Fusion Drive,NVIDIA GeForce GTX 1650,macOS,15,2.93,2372.54
+Apple,UltraBook,2K,Intel Core i7,8GB,HDD,NVIDIA GeForce GTX 1650,No OS,12,3.72,1947.64
+Acer,WorkStation,2K,AMD Ryzen 7,16GB,SSD,AMD Radeon RX 5600M,No OS,16,4.08,3875.83
+Chuwi,Gaming,2K,Intel Core i9,16GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,13,2.26,2337.64
+Apple,Business Laptop,4K,Intel Core i7,8GB,Flash Storage,Intel Iris Xe Graphics,No OS,11,2.8,2688.27
+Microsoft,UltraBook,4K,Intel Xeon E3-1505M ,4GB,HDD,NVIDIA GeForce GTX 1650,Linux,14,2.81,1839.41
+hp,WorkStation,2K,AMD Ryzen 5,4GB,Fusion Drive,AMD Radeon RX 5600M,No OS,12,3.48,2909.89
+Chuwi,WorkStation,4K,Intel Core i9,12GB,SSD,AMD Radeon RX 5600M,Linux,17,4.31,3691.29
+Dell,NoteBook,4K,AMD A9-Series 9420,12GB,Fusion Drive,Intel Iris Xe Graphics,Windows 10,16,4.51,2016.74
+MSI,Business Laptop,Full HD,Intel Core i9,4GB,eMMC,AMD Radeon RX 5600M,No OS,11,2.17,3340.62
+Asus,Gaming,2K,Intel Celeron Dual Core 3855U ,8GB,eMMC,AMD Radeon RX 5600M,No OS,16,3.23,3268.93
+Dell,Gaming,2K,Intel Pentium Quad Core N4200,8GB,SSD,NVIDIA GeForce GTX 1650,No OS,12,3.59,4605.51
+Chuwi,WorkStation,4K,Intel Core i7,12GB,SATA SSD,NVIDIA GeForce GTX 1650,Linux,16,3.78,2184.62
+Asus,WorkStation,Full HD,Intel Pentium Quad Core N4200,4GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,12,3.98,1750.97
+Asus,Business Laptop,Full HD,AMD Ryzen 7,16GB,Fusion Drive,NVIDIA GeForce GTX 1650,macOS,18,2.97,2480.35
+hp,UltraBook,4K,Intel Core i9,4GB,Flash Storage,AMD Radeon RX 5600M,No OS,14,4.32,3690.39
+MSI,WorkStation,4K,AMD Ryzen 7,16GB,SSD,AMD Radeon RX 5600M,Windows 10,13,3.96,2973.85
+Asus,WorkStation,4K,AMD A9-Series 9420,16GB,SATA SSD,Intel Iris Xe Graphics,No OS,13,2.59,2790.43
+Acer,WorkStation,2K,AMD Ryzen 7,16GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,17,2.57,3063.09
+Microsoft,NoteBook,Full HD,Intel Pentium Quad Core N4200,16GB,SSHD,NVIDIA GeForce GTX 1650,No OS,11,3.78,2687.48
+Acer,2 in 1 Convertible,Full HD,Intel Core i7,12GB,SSD,AMD Radeon RX 5600M,No OS,17,2.93,2131.4
+Dell,WorkStation,Full HD,AMD Ryzen 7,4GB,SSHD,AMD Radeon RX 5600M,Linux,18,2.65,3937.96
+Dell,Gaming,2K,Intel Core i5,8GB,Flash Storage,NVIDIA GeForce GTX 1650,Windows 10,11,3.17,4627.34
+hp,NoteBook,Full HD,AMD Ryzen 7,4GB,SSD,Intel Iris Xe Graphics,No OS,17,3.95,3198.96
+hp,2 in 1 Convertible,Full HD,Intel Atom x5-Z8550,16GB,SATA SSD,NVIDIA GeForce GTX 1650,No OS,15,3.47,2809.77
+Apple,WorkStation,Full HD,Intel Core i5,16GB,SSD,AMD Radeon RX 5600M,No OS,13,3.08,3910.61
+Microsoft,Business Laptop,2K,Intel Core i5,4GB,SSD,AMD Radeon RX 5600M,No OS,12,3.81,3907.46
+Apple,WorkStation,4K,AMD Ryzen 5,16GB,HDD,NVIDIA GeForce GTX 1650,No OS,12,4.73,2577.15
+Apple,Business Laptop,4K,Intel Core i5,8GB,SATA SSD,AMD Radeon RX 5600M,Windows 11,11,4.13,2614.49
+MSI,WorkStation,Full HD,Intel Pentium Quad Core N4200,4GB,Flash Storage,AMD Radeon RX 5600M,macOS,15,4.64,2540.57
+Chuwi,UltraBook,Full HD,Intel Core i5,8GB,SSD,Intel Iris Xe Graphics,No OS,17,3.97,1885.78
+Microsoft,NoteBook,Full HD,AMD Ryzen 5,12GB,SSD,NVIDIA GeForce GTX 1650,Linux,11,4.91,3027.79
+lenevo,WorkStation,Full HD,Intel Core i5,12GB,SSHD,AMD Radeon RX 5600M,macOS,16,4.72,2861.64
+Asus,Gaming,Full HD,Intel Core i5,16GB,SSD,NVIDIA GeForce GTX 1650,macOS,15,3.05,2826.64
+hp,Gaming,4K,Intel Pentium Quad Core N4200,12GB,eMMC,AMD Radeon RX 5600M,Linux,17,4.74,3957.47
+Acer,2 in 1 Convertible,4K,Intel Core i7,4GB,SATA SSD,AMD Radeon RX 5600M,Windows 10,18,3.02,1714.57
+Microsoft,Gaming,Full HD,Intel Core i9,8GB,HDD,Intel Iris Xe Graphics,macOS,15,2.69,3238.69
+Dell,NoteBook,Full HD,AMD Ryzen 5,12GB,SSHD,Intel Iris Xe Graphics,No OS,13,4.09,3790.44
+Apple,WorkStation,4K,AMD A9-Series 9420,16GB,SSD,AMD Radeon RX 5600M,Windows 10,18,2.19,3865.49
+lenevo,NoteBook,4K,AMD Ryzen 5,4GB,Fusion Drive,NVIDIA GeForce GTX 1650,No OS,13,3.17,2578.02
+lenevo,Business Laptop,4K,AMD Ryzen 7,12GB,SSD,Intel Iris Xe Graphics,No OS,13,3.12,2955.65
+Acer,Gaming,2K,Intel Pentium Quad Core N4200,12GB,SSD,AMD Radeon RX 5600M,macOS,11,3.74,1864.45
+Asus,UltraBook,2K,Intel Core i9,4GB,Fusion Drive,Intel Iris Xe Graphics,No OS,14,3.58,3393.21
+Dell,WorkStation,2K,Intel Celeron Dual Core 3855U ,8GB,HDD,Intel Iris Xe Graphics,macOS,13,2.04,5272.78
+Dell,2 in 1 Convertible,2K,Intel Atom x5-Z8550,8GB,Flash Storage,Intel Iris Xe Graphics,No OS,13,2.36,4071.6
+MSI,2 in 1 Convertible,Full HD,Intel Celeron Dual Core 3855U ,16GB,HDD,Intel Iris Xe Graphics,Windows 10,13,3.72,3504.35
+Dell,Gaming,Full HD,Intel Atom x5-Z8550,12GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,11,2.22,3978.7
+Apple,UltraBook,Full HD,AMD Ryzen 5,12GB,SSD,AMD Radeon RX 5600M,macOS,13,3.33,2248.41
+Asus,2 in 1 Convertible,Full HD,Intel Atom x5-Z8550,12GB,Flash Storage,NVIDIA GeForce GTX 1650,Windows 10,12,3.89,3885.91
+Microsoft,2 in 1 Convertible,Full HD,Intel Core i5,16GB,SSD,Intel Iris Xe Graphics,macOS,17,3.35,1857.05
+hp,UltraBook,Full HD,Intel Celeron Dual Core 3855U ,8GB,SSD,AMD Radeon RX 5600M,No OS,14,2.94,3860.15
+Asus,Gaming,Full HD,Intel Xeon E3-1505M ,12GB,SSHD,Intel Iris Xe Graphics,Windows 10,15,4.02,1758.23
+Acer,WorkStation,Full HD,Intel Pentium Quad Core N4200,16GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,12,2.55,1969.74
+Acer,2 in 1 Convertible,Full HD,Intel Atom x5-Z8550,4GB,Fusion Drive,NVIDIA GeForce GTX 1650,Linux,12,3.74,3842.86
+Acer,UltraBook,2K,AMD Ryzen 5,16GB,HDD,Intel Iris Xe Graphics,No OS,16,4.18,2375.61
+MSI,UltraBook,4K,Intel Pentium Quad Core N4200,8GB,HDD,Intel Iris Xe Graphics,Linux,15,3.63,3406.48
+Chuwi,WorkStation,Full HD,AMD Ryzen 5,12GB,HDD,NVIDIA GeForce GTX 1650,Linux,15,3.53,2224.27
+lenevo,WorkStation,Full HD,Intel Xeon E3-1505M ,4GB,SSHD,NVIDIA GeForce GTX 1650,Windows 11,15,2.0,2260.67
+Acer,Business Laptop,Full HD,Intel Core i7,16GB,HDD,AMD Radeon RX 5600M,Windows 10,14,3.71,3564.51
+Apple,2 in 1 Convertible,4K,Intel Pentium Quad Core N4200,8GB,SSHD,Intel Iris Xe Graphics,No OS,15,3.23,1976.25
+Asus,NoteBook,Full HD,Intel Xeon E3-1505M ,8GB,Flash Storage,NVIDIA GeForce GTX 1650,Windows 10,16,2.82,3805.32
+Dell,UltraBook,2K,AMD Ryzen 7,8GB,Flash Storage,Intel Iris Xe Graphics,Windows 11,12,4.67,4308.11
+Chuwi,UltraBook,4K,Intel Celeron Dual Core 3855U ,16GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,15,3.38,2582.94
+Apple,Business Laptop,Full HD,Intel Celeron Dual Core 3855U ,12GB,HDD,Intel Iris Xe Graphics,No OS,18,4.19,1890.96
+hp,UltraBook,4K,Intel Core i7,16GB,HDD,Intel Iris Xe Graphics,Windows 11,17,3.12,3866.5
+Acer,Gaming,Full HD,Intel Celeron Dual Core 3855U ,12GB,SSD,NVIDIA GeForce GTX 1650,Linux,13,3.74,3952.93
+lenevo,Business Laptop,Full HD,Intel Core i7,4GB,eMMC,Intel Iris Xe Graphics,Windows 11,14,3.39,2282.91
+hp,NoteBook,4K,Intel Core i5,4GB,SSD,NVIDIA GeForce GTX 1650,Linux,12,4.17,2373.83
+Microsoft,UltraBook,Full HD,AMD Ryzen 7,8GB,SSD,Intel Iris Xe Graphics,Windows 11,12,3.28,3844.53
+lenevo,Business Laptop,Full HD,Intel Core i7,16GB,SSD,AMD Radeon RX 5600M,Linux,14,4.56,2302.92
+lenevo,2 in 1 Convertible,2K,Intel Xeon E3-1505M ,4GB,HDD,AMD Radeon RX 5600M,No OS,14,4.51,2997.49
+Asus,WorkStation,Full HD,AMD Ryzen 7,4GB,SSD,Intel Iris Xe Graphics,Linux,13,4.46,2978.61
+Apple,Business Laptop,2K,AMD Ryzen 7,8GB,eMMC,NVIDIA GeForce GTX 1650,Windows 10,13,2.92,3189.45
+Asus,Gaming,Full HD,Intel Atom x5-Z8550,16GB,eMMC,AMD Radeon RX 5600M,Linux,16,3.17,2754.81
+Acer,Business Laptop,4K,Intel Pentium Quad Core N4200,8GB,HDD,Intel Iris Xe Graphics,Windows 11,16,4.33,3474.55
+Dell,Business Laptop,4K,Intel Atom x5-Z8550,8GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,13,2.68,4957.41
+lenevo,NoteBook,Full HD,Intel Pentium Quad Core N4200,4GB,SSD,Intel Iris Xe Graphics,Linux,13,4.92,2696.51
+Asus,UltraBook,4K,Intel Core i7,12GB,SSD,NVIDIA GeForce GTX 1650,macOS,16,4.74,2250.0
+hp,UltraBook,4K,Intel Core i7,4GB,SSD,AMD Radeon RX 5600M,macOS,12,4.47,1909.2
+Chuwi,Business Laptop,Full HD,AMD Ryzen 5,8GB,HDD,AMD Radeon RX 5600M,Windows 11,18,2.41,3425.03
+Dell,UltraBook,Full HD,Intel Xeon E3-1505M ,16GB,HDD,NVIDIA GeForce GTX 1650,Linux,13,2.75,2671.79
+Apple,Gaming,4K,Intel Atom x5-Z8550,12GB,HDD,NVIDIA GeForce GTX 1650,No OS,18,3.58,3080.56
+Microsoft,2 in 1 Convertible,2K,Intel Core i7,8GB,HDD,Intel Iris Xe Graphics,macOS,14,2.26,2291.98
+Dell,Business Laptop,Full HD,Intel Atom x5-Z8550,8GB,eMMC,NVIDIA GeForce GTX 1650,No OS,16,2.2,3865.92
+lenevo,Business Laptop,4K,Intel Core i7,8GB,SATA SSD,Intel Iris Xe Graphics,Linux,12,3.67,3609.88
+Chuwi,UltraBook,4K,Intel Pentium Quad Core N4200,8GB,eMMC,NVIDIA GeForce GTX 1650,macOS,13,3.41,3092.71
+Microsoft,WorkStation,2K,Intel Celeron Dual Core 3855U ,16GB,HDD,Intel Iris Xe Graphics,Windows 11,14,2.44,2605.96
+hp,UltraBook,Full HD,Intel Atom x5-Z8550,4GB,SSHD,Intel Iris Xe Graphics,Windows 10,16,3.78,3546.09
+hp,UltraBook,Full HD,Intel Pentium Quad Core N4200,4GB,SSD,Intel Iris Xe Graphics,Linux,15,4.83,3165.38
+Dell,NoteBook,4K,Intel Celeron Dual Core 3855U ,12GB,SSD,Intel Iris Xe Graphics,macOS,12,3.74,2853.4
+Asus,NoteBook,Full HD,AMD A9-Series 9420,16GB,SSD,AMD Radeon RX 5600M,macOS,18,3.48,3814.42
+Chuwi,WorkStation,4K,Intel Pentium Quad Core N4200,4GB,SSD,Intel Iris Xe Graphics,macOS,17,4.59,3312.14
+MSI,Gaming,Full HD,Intel Core i5,16GB,HDD,Intel Iris Xe Graphics,No OS,16,3.61,2414.85
+Apple,WorkStation,Full HD,Intel Core i7,8GB,SATA SSD,NVIDIA GeForce GTX 1650,macOS,14,3.61,3796.55
+Asus,Business Laptop,2K,AMD Ryzen 5,12GB,SSD,NVIDIA GeForce GTX 1650,macOS,16,4.05,3562.84
+Acer,WorkStation,Full HD,Intel Celeron Dual Core 3855U ,16GB,SSD,NVIDIA GeForce GTX 1650,macOS,13,3.4,2918.62
+MSI,2 in 1 Convertible,4K,Intel Xeon E3-1505M ,8GB,Flash Storage,Intel Iris Xe Graphics,Windows 10,14,3.16,2563.3
+MSI,Gaming,4K,Intel Core i7,16GB,SSHD,Intel Iris Xe Graphics,macOS,12,4.85,2875.76
+Acer,UltraBook,Full HD,Intel Celeron Dual Core 3855U ,4GB,SSD,AMD Radeon RX 5600M,macOS,16,3.52,3071.02
+lenevo,WorkStation,Full HD,Intel Celeron Dual Core 3855U ,12GB,eMMC,AMD Radeon RX 5600M,No OS,14,4.98,2238.08
+Acer,WorkStation,Full HD,Intel Core i5,16GB,SATA SSD,NVIDIA GeForce GTX 1650,Windows 11,12,4.23,2117.17
+Chuwi,WorkStation,2K,AMD Ryzen 5,12GB,SSD,NVIDIA GeForce GTX 1650,No OS,11,3.66,2260.3
+Microsoft,Gaming,4K,AMD Ryzen 7,12GB,HDD,AMD Radeon RX 5600M,Windows 10,17,4.19,2009.18
+Chuwi,Gaming,2K,Intel Core i9,12GB,HDD,AMD Radeon RX 5600M,macOS,15,3.35,2603.0
+lenevo,Gaming,Full HD,AMD Ryzen 5,16GB,SSD,AMD Radeon RX 5600M,macOS,17,4.69,2551.04
+Acer,2 in 1 Convertible,4K,Intel Core i5,8GB,SSD,NVIDIA GeForce GTX 1650,macOS,12,2.65,3178.52
+Chuwi,2 in 1 Convertible,4K,Intel Core i9,8GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,13,2.91,2794.61
+Microsoft,2 in 1 Convertible,4K,Intel Core i9,12GB,HDD,NVIDIA GeForce GTX 1650,Windows 10,13,3.8,2135.07
+Apple,NoteBook,2K,Intel Core i7,8GB,SSD,AMD Radeon RX 5600M,macOS,11,2.45,3561.2
+Microsoft,2 in 1 Convertible,Full HD,Intel Atom x5-Z8550,8GB,eMMC,Intel Iris Xe Graphics,No OS,11,3.47,3439.8
+MSI,WorkStation,Full HD,Intel Core i5,12GB,HDD,Intel Iris Xe Graphics,Linux,13,3.78,3833.94
+Apple,WorkStation,Full HD,Intel Pentium Quad Core N4200,12GB,SSD,AMD Radeon RX 5600M,Windows 10,15,2.17,2276.66
+hp,2 in 1 Convertible,2K,Intel Core i9,12GB,SSD,AMD Radeon RX 5600M,No OS,15,3.48,4030.73
+Dell,2 in 1 Convertible,4K,AMD Ryzen 5,4GB,SSHD,Intel Iris Xe Graphics,macOS,16,2.23,2030.93
+Acer,UltraBook,Full HD,AMD A9-Series 9420,12GB,Fusion Drive,AMD Radeon RX 5600M,Windows 10,18,3.76,2444.24
+Acer,Business Laptop,2K,AMD Ryzen 5,12GB,SSHD,NVIDIA GeForce GTX 1650,macOS,13,3.35,3674.07
+hp,2 in 1 Convertible,Full HD,AMD A9-Series 9420,16GB,SSD,Intel Iris Xe Graphics,No OS,17,3.59,3591.22
+Asus,Business Laptop,2K,AMD Ryzen 7,8GB,SSD,Intel Iris Xe Graphics,Windows 10,12,4.45,1958.8
+Asus,WorkStation,Full HD,Intel Core i7,4GB,SATA SSD,NVIDIA GeForce GTX 1650,Windows 10,15,4.6,2660.19
+Acer,WorkStation,Full HD,Intel Xeon E3-1505M ,4GB,SSD,AMD Radeon RX 5600M,Windows 11,11,2.2,3444.6
+Acer,WorkStation,2K,Intel Core i9,8GB,eMMC,AMD Radeon RX 5600M,Windows 11,12,2.04,3505.25
+hp,WorkStation,Full HD,Intel Celeron Dual Core 3855U ,4GB,SATA SSD,NVIDIA GeForce GTX 1650,Windows 11,16,4.19,2485.12
+hp,Business Laptop,Full HD,Intel Atom x5-Z8550,16GB,SSD,NVIDIA GeForce GTX 1650,macOS,11,4.01,3040.23
+Acer,WorkStation,4K,AMD Ryzen 7,16GB,SSD,NVIDIA GeForce GTX 1650,macOS,12,4.3,3755.95
+hp,Gaming,2K,Intel Xeon E3-1505M ,16GB,SSD,Intel Iris Xe Graphics,macOS,14,3.25,1795.44
+lenevo,NoteBook,Full HD,AMD Ryzen 5,4GB,SSD,NVIDIA GeForce GTX 1650,No OS,12,2.46,3562.62
+hp,UltraBook,Full HD,Intel Core i5,4GB,SSD,AMD Radeon RX 5600M,Windows 11,18,3.83,2516.87
+Chuwi,NoteBook,4K,Intel Atom x5-Z8550,16GB,Fusion Drive,AMD Radeon RX 5600M,Windows 11,17,4.8,3032.81
+Dell,WorkStation,Full HD,Intel Celeron Dual Core 3855U ,8GB,SSD,NVIDIA GeForce GTX 1650,No OS,14,2.95,4206.0
+hp,NoteBook,4K,Intel Core i7,12GB,SSD,AMD Radeon RX 5600M,macOS,16,3.45,3694.06
+hp,WorkStation,Full HD,Intel Core i5,16GB,SSD,AMD Radeon RX 5600M,macOS,13,2.66,2603.44
+MSI,WorkStation,2K,Intel Xeon E3-1505M ,4GB,SSD,Intel Iris Xe Graphics,No OS,17,2.25,3718.11
+Apple,Business Laptop,4K,Intel Core i5,16GB,HDD,AMD Radeon RX 5600M,Windows 10,17,2.23,2465.13
+Dell,Gaming,4K,Intel Celeron Dual Core 3855U ,4GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,12,3.37,3013.51
+hp,UltraBook,4K,Intel Celeron Dual Core 3855U ,8GB,SSHD,Intel Iris Xe Graphics,macOS,14,4.47,1997.02
+lenevo,Business Laptop,2K,Intel Core i5,4GB,SATA SSD,AMD Radeon RX 5600M,Linux,15,2.49,2566.53
+Acer,NoteBook,2K,Intel Atom x5-Z8550,12GB,SSHD,AMD Radeon RX 5600M,Windows 11,17,3.52,1721.21
+Asus,NoteBook,4K,Intel Core i7,12GB,HDD,Intel Iris Xe Graphics,Linux,12,2.49,1872.22
+Asus,UltraBook,4K,Intel Core i9,4GB,HDD,AMD Radeon RX 5600M,Windows 10,15,2.2,1758.69
+Microsoft,NoteBook,Full HD,Intel Xeon E3-1505M ,4GB,Flash Storage,Intel Iris Xe Graphics,Windows 10,17,2.92,3671.83
+hp,NoteBook,2K,Intel Atom x5-Z8550,12GB,eMMC,Intel Iris Xe Graphics,macOS,12,4.01,3975.43
+Apple,2 in 1 Convertible,4K,AMD Ryzen 5,16GB,SSD,NVIDIA GeForce GTX 1650,No OS,17,4.31,3423.29
+hp,NoteBook,Full HD,Intel Xeon E3-1505M ,8GB,SSD,AMD Radeon RX 5600M,Windows 11,12,4.81,1945.0
+MSI,Gaming,Full HD,Intel Xeon E3-1505M ,8GB,HDD,AMD Radeon RX 5600M,macOS,17,3.85,3451.17
+hp,Business Laptop,4K,Intel Core i7,12GB,SSD,AMD Radeon RX 5600M,macOS,15,4.36,4455.95
+Chuwi,UltraBook,4K,Intel Core i9,8GB,HDD,NVIDIA GeForce GTX 1650,Linux,17,2.25,2172.89
+Dell,Gaming,4K,Intel Xeon E3-1505M ,8GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,16,2.04,4986.26
+Apple,Business Laptop,2K,AMD Ryzen 5,8GB,SSD,AMD Radeon RX 5600M,Linux,16,2.24,1819.12
+MSI,Business Laptop,4K,Intel Celeron Dual Core 3855U ,16GB,HDD,NVIDIA GeForce GTX 1650,No OS,12,2.62,3810.98
+Chuwi,Business Laptop,Full HD,Intel Xeon E3-1505M ,12GB,HDD,NVIDIA GeForce GTX 1650,No OS,17,4.31,2375.5
+lenevo,2 in 1 Convertible,Full HD,AMD Ryzen 7,12GB,SSHD,NVIDIA GeForce GTX 1650,Windows 11,15,3.67,2982.73
+Apple,NoteBook,4K,Intel Pentium Quad Core N4200,4GB,HDD,Intel Iris Xe Graphics,macOS,14,2.76,3817.95
+Asus,UltraBook,4K,Intel Atom x5-Z8550,4GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,18,2.92,1776.09
+Chuwi,WorkStation,Full HD,Intel Celeron Dual Core 3855U ,12GB,SSD,Intel Iris Xe Graphics,macOS,16,4.02,2555.36
+Asus,Gaming,Full HD,Intel Celeron Dual Core 3855U ,12GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,12,4.84,3336.74
+hp,Business Laptop,4K,Intel Core i7,12GB,eMMC,NVIDIA GeForce GTX 1650,Windows 10,14,4.8,4246.76
+MSI,NoteBook,Full HD,Intel Pentium Quad Core N4200,8GB,SSD,NVIDIA GeForce GTX 1650,Linux,12,3.99,3953.87
+Apple,Gaming,4K,Intel Celeron Dual Core 3855U ,8GB,SSHD,NVIDIA GeForce GTX 1650,Windows 11,16,3.53,2859.48
+Microsoft,Business Laptop,Full HD,AMD Ryzen 7,16GB,HDD,Intel Iris Xe Graphics,macOS,13,4.62,3791.76
+Microsoft,Gaming,Full HD,Intel Pentium Quad Core N4200,12GB,SSD,Intel Iris Xe Graphics,Windows 10,14,2.1,3780.51
+Asus,NoteBook,4K,Intel Pentium Quad Core N4200,16GB,HDD,NVIDIA GeForce GTX 1650,No OS,17,4.01,3890.85
+Chuwi,WorkStation,Full HD,Intel Core i7,8GB,SSD,AMD Radeon RX 5600M,Linux,12,3.46,2837.55
+Microsoft,Business Laptop,4K,Intel Xeon E3-1505M ,16GB,HDD,AMD Radeon RX 5600M,macOS,16,2.5,2591.65
+hp,2 in 1 Convertible,2K,Intel Atom x5-Z8550,4GB,SSD,AMD Radeon RX 5600M,Windows 10,15,4.27,3266.85
+Acer,NoteBook,4K,AMD Ryzen 5,12GB,HDD,Intel Iris Xe Graphics,Windows 10,13,4.4,2207.31
+Chuwi,2 in 1 Convertible,Full HD,AMD A9-Series 9420,12GB,HDD,Intel Iris Xe Graphics,Linux,17,3.94,2473.04
+hp,UltraBook,Full HD,Intel Xeon E3-1505M ,4GB,HDD,AMD Radeon RX 5600M,Linux,11,3.05,2113.18
+Apple,NoteBook,2K,Intel Core i7,16GB,SSD,AMD Radeon RX 5600M,No OS,15,2.35,3427.01
+MSI,Business Laptop,4K,AMD Ryzen 7,8GB,eMMC,AMD Radeon RX 5600M,No OS,17,4.08,3554.25
+lenevo,2 in 1 Convertible,4K,Intel Atom x5-Z8550,12GB,SSD,AMD Radeon RX 5600M,macOS,12,2.94,3473.91
+Asus,Business Laptop,Full HD,AMD Ryzen 5,16GB,SSD,Intel Iris Xe Graphics,Linux,17,4.16,2564.7
+MSI,Business Laptop,2K,Intel Core i7,12GB,HDD,AMD Radeon RX 5600M,Windows 11,18,4.81,2596.68
+Microsoft,Business Laptop,2K,Intel Atom x5-Z8550,8GB,SSD,Intel Iris Xe Graphics,macOS,13,3.63,2578.31
+Dell,Business Laptop,Full HD,Intel Celeron Dual Core 3855U ,8GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,18,2.99,4386.83
+Asus,Gaming,Full HD,AMD A9-Series 9420,4GB,Fusion Drive,AMD Radeon RX 5600M,Linux,18,4.92,2416.66
+Chuwi,Gaming,4K,Intel Atom x5-Z8550,4GB,Fusion Drive,AMD Radeon RX 5600M,macOS,17,2.96,3145.82
+MSI,Gaming,Full HD,Intel Atom x5-Z8550,8GB,eMMC,Intel Iris Xe Graphics,macOS,14,2.93,1759.82
+Dell,WorkStation,Full HD,AMD Ryzen 7,4GB,HDD,AMD Radeon RX 5600M,Linux,17,2.85,3119.17
+MSI,Business Laptop,Full HD,Intel Celeron Dual Core 3855U ,16GB,SSD,AMD Radeon RX 5600M,Linux,12,3.3,3512.81
+Apple,Gaming,Full HD,Intel Atom x5-Z8550,12GB,SATA SSD,AMD Radeon RX 5600M,Windows 11,12,2.24,2357.95
+Acer,Business Laptop,4K,AMD Ryzen 5,12GB,SSD,AMD Radeon RX 5600M,Linux,12,2.68,2145.61
+lenevo,WorkStation,4K,AMD A9-Series 9420,4GB,HDD,AMD Radeon RX 5600M,Linux,13,3.38,2591.11
+lenevo,UltraBook,Full HD,Intel Core i5,12GB,SSD,Intel Iris Xe Graphics,Windows 11,16,4.83,2329.56
+Acer,UltraBook,Full HD,Intel Celeron Dual Core 3855U ,12GB,SSD,NVIDIA GeForce GTX 1650,Linux,14,4.67,2616.04
+Apple,Gaming,Full HD,AMD Ryzen 7,8GB,HDD,Intel Iris Xe Graphics,macOS,13,4.33,2398.78
+Asus,Business Laptop,Full HD,AMD Ryzen 7,16GB,eMMC,NVIDIA GeForce GTX 1650,Linux,13,3.31,2019.92
+Asus,Gaming,2K,Intel Pentium Quad Core N4200,8GB,HDD,AMD Radeon RX 5600M,Linux,14,2.64,2079.48
+lenevo,2 in 1 Convertible,Full HD,AMD Ryzen 7,8GB,Flash Storage,Intel Iris Xe Graphics,Windows 11,13,4.94,1714.59
+Acer,UltraBook,Full HD,Intel Xeon E3-1505M ,12GB,SSD,Intel Iris Xe Graphics,Windows 10,14,2.18,1760.99
+MSI,NoteBook,Full HD,AMD Ryzen 7,8GB,eMMC,Intel Iris Xe Graphics,Windows 10,17,2.64,2122.27
+Dell,UltraBook,Full HD,Intel Core i5,8GB,HDD,NVIDIA GeForce GTX 1650,No OS,17,3.19,5221.09
+MSI,NoteBook,2K,Intel Core i7,12GB,SSD,Intel Iris Xe Graphics,Windows 10,18,3.95,1729.19
+Acer,WorkStation,2K,Intel Xeon E3-1505M ,12GB,SSD,AMD Radeon RX 5600M,Windows 10,12,4.31,3967.02
+MSI,2 in 1 Convertible,Full HD,Intel Core i7,12GB,SSD,Intel Iris Xe Graphics,Windows 10,14,2.44,3702.76
+Microsoft,2 in 1 Convertible,Full HD,Intel Core i7,12GB,HDD,Intel Iris Xe Graphics,macOS,14,2.58,2292.84
+Dell,2 in 1 Convertible,2K,Intel Atom x5-Z8550,8GB,SSD,Intel Iris Xe Graphics,Windows 11,15,4.63,4951.25
+Dell,Business Laptop,Full HD,Intel Core i9,4GB,SSD,NVIDIA GeForce GTX 1650,Linux,14,2.89,2162.05
+Asus,WorkStation,Full HD,AMD A9-Series 9420,8GB,SSD,NVIDIA GeForce GTX 1650,No OS,17,3.92,2404.28
+Asus,NoteBook,Full HD,Intel Core i9,8GB,SSD,AMD Radeon RX 5600M,Windows 11,18,2.61,1922.61
+Chuwi,Gaming,Full HD,Intel Celeron Dual Core 3855U ,8GB,HDD,AMD Radeon RX 5600M,Linux,16,3.93,2453.45
+lenevo,2 in 1 Convertible,Full HD,AMD A9-Series 9420,8GB,HDD,AMD Radeon RX 5600M,Windows 10,15,3.63,2647.15
+Acer,2 in 1 Convertible,Full HD,Intel Atom x5-Z8550,8GB,SSHD,NVIDIA GeForce GTX 1650,Linux,17,4.23,3153.29
+hp,WorkStation,4K,Intel Pentium Quad Core N4200,16GB,Flash Storage,Intel Iris Xe Graphics,Windows 10,14,2.97,3737.12
+lenevo,Gaming,4K,Intel Xeon E3-1505M ,8GB,SSHD,Intel Iris Xe Graphics,Windows 10,12,2.88,3367.46
+Dell,UltraBook,Full HD,Intel Atom x5-Z8550,4GB,SATA SSD,AMD Radeon RX 5600M,Linux,14,4.64,2501.18
+hp,Gaming,Full HD,AMD A9-Series 9420,12GB,HDD,Intel Iris Xe Graphics,macOS,14,2.47,4254.96
+Acer,Gaming,Full HD,Intel Celeron Dual Core 3855U ,8GB,SSD,AMD Radeon RX 5600M,No OS,18,2.21,1783.9
+Chuwi,Gaming,2K,Intel Xeon E3-1505M ,16GB,SSHD,Intel Iris Xe Graphics,Linux,12,2.85,2262.69
+Chuwi,NoteBook,4K,AMD Ryzen 5,16GB,SSD,Intel Iris Xe Graphics,macOS,17,2.12,3085.96
+Dell,WorkStation,2K,AMD Ryzen 7,8GB,SATA SSD,NVIDIA GeForce GTX 1650,macOS,14,2.8,4781.3
+Dell,UltraBook,Full HD,Intel Atom x5-Z8550,4GB,SATA SSD,NVIDIA GeForce GTX 1650,macOS,13,2.97,2046.54
+MSI,Business Laptop,Full HD,Intel Atom x5-Z8550,4GB,SSD,Intel Iris Xe Graphics,Windows 11,15,3.87,2365.63
+MSI,UltraBook,Full HD,Intel Xeon E3-1505M ,8GB,SSD,AMD Radeon RX 5600M,Windows 10,17,4.52,2649.53
+Asus,UltraBook,4K,AMD A9-Series 9420,8GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,18,3.75,2261.49
+MSI,Business Laptop,Full HD,Intel Core i5,12GB,eMMC,NVIDIA GeForce GTX 1650,Windows 11,15,3.24,3781.8
+MSI,Gaming,Full HD,AMD A9-Series 9420,16GB,HDD,Intel Iris Xe Graphics,Windows 10,18,2.8,1791.32
+Apple,2 in 1 Convertible,Full HD,Intel Xeon E3-1505M ,12GB,HDD,AMD Radeon RX 5600M,No OS,13,4.74,2048.45
+Asus,UltraBook,Full HD,AMD A9-Series 9420,16GB,SSHD,AMD Radeon RX 5600M,No OS,13,2.93,3089.43
+Acer,WorkStation,2K,Intel Atom x5-Z8550,4GB,HDD,NVIDIA GeForce GTX 1650,No OS,18,3.53,2382.82
+lenevo,2 in 1 Convertible,Full HD,Intel Core i9,16GB,SSD,AMD Radeon RX 5600M,Windows 11,17,3.45,3606.42
+Microsoft,2 in 1 Convertible,2K,Intel Celeron Dual Core 3855U ,12GB,SSD,AMD Radeon RX 5600M,macOS,14,3.96,1845.81
+Chuwi,Business Laptop,4K,AMD A9-Series 9420,16GB,SSD,NVIDIA GeForce GTX 1650,macOS,18,3.93,3327.61
+lenevo,WorkStation,4K,AMD Ryzen 7,8GB,Fusion Drive,NVIDIA GeForce GTX 1650,No OS,11,3.36,2121.73
+Dell,Gaming,Full HD,AMD Ryzen 5,16GB,eMMC,NVIDIA GeForce GTX 1650,Linux,15,2.34,2124.46
+Asus,Business Laptop,4K,Intel Core i5,12GB,SSD,Intel Iris Xe Graphics,Linux,15,4.82,2600.7
+lenevo,2 in 1 Convertible,2K,Intel Pentium Quad Core N4200,12GB,SSD,AMD Radeon RX 5600M,Windows 11,13,2.74,3370.62
+Apple,Gaming,Full HD,Intel Core i7,8GB,SSD,NVIDIA GeForce GTX 1650,Linux,15,2.24,2773.8
+Dell,WorkStation,2K,Intel Pentium Quad Core N4200,8GB,Fusion Drive,NVIDIA GeForce GTX 1650,Linux,18,4.05,4448.96
+Acer,WorkStation,4K,Intel Core i5,12GB,SSD,AMD Radeon RX 5600M,No OS,17,2.59,3456.71
+Dell,2 in 1 Convertible,Full HD,Intel Pentium Quad Core N4200,8GB,SSD,Intel Iris Xe Graphics,Windows 10,13,3.8,5378.58
+Dell,Business Laptop,4K,Intel Core i5,16GB,SSD,Intel Iris Xe Graphics,Windows 10,11,4.12,3612.82
+Apple,UltraBook,Full HD,AMD Ryzen 5,12GB,SSD,NVIDIA GeForce GTX 1650,No OS,16,2.3,2391.72
+MSI,2 in 1 Convertible,Full HD,Intel Core i9,8GB,SSD,Intel Iris Xe Graphics,Windows 11,13,3.91,3255.26
+Chuwi,Business Laptop,2K,AMD A9-Series 9420,8GB,eMMC,Intel Iris Xe Graphics,Windows 11,17,2.05,3194.37
+Dell,WorkStation,2K,Intel Core i7,8GB,eMMC,Intel Iris Xe Graphics,Linux,13,3.72,4419.75
+Apple,NoteBook,Full HD,AMD Ryzen 5,8GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,14,3.65,3538.19
+Dell,NoteBook,Full HD,Intel Core i5,4GB,SSD,Intel Iris Xe Graphics,No OS,14,2.38,3340.46
+lenevo,Business Laptop,Full HD,Intel Core i7,16GB,HDD,Intel Iris Xe Graphics,No OS,15,2.17,3917.38
+Apple,2 in 1 Convertible,2K,Intel Core i7,4GB,SATA SSD,AMD Radeon RX 5600M,Windows 10,17,3.46,3930.65
+lenevo,WorkStation,Full HD,AMD Ryzen 5,16GB,SSD,AMD Radeon RX 5600M,macOS,11,4.32,2981.86
+Dell,Gaming,Full HD,AMD Ryzen 7,8GB,SSD,NVIDIA GeForce GTX 1650,macOS,17,4.88,4072.37
+Acer,WorkStation,4K,Intel Pentium Quad Core N4200,8GB,SSHD,AMD Radeon RX 5600M,macOS,15,3.07,2895.77
+Chuwi,WorkStation,4K,Intel Core i9,8GB,SSD,AMD Radeon RX 5600M,Linux,18,3.8,2560.13
+Asus,NoteBook,4K,Intel Celeron Dual Core 3855U ,16GB,SSHD,AMD Radeon RX 5600M,macOS,18,3.46,1921.44
+lenevo,UltraBook,4K,Intel Atom x5-Z8550,16GB,HDD,Intel Iris Xe Graphics,macOS,16,2.62,3210.81
+Microsoft,2 in 1 Convertible,Full HD,Intel Xeon E3-1505M ,16GB,eMMC,NVIDIA GeForce GTX 1650,macOS,14,2.8,3346.62
+lenevo,Business Laptop,Full HD,AMD Ryzen 7,8GB,SSD,AMD Radeon RX 5600M,Windows 10,16,2.23,3387.59
+MSI,NoteBook,Full HD,Intel Core i5,4GB,SSD,AMD Radeon RX 5600M,No OS,16,4.47,3198.87
+Chuwi,Business Laptop,2K,Intel Pentium Quad Core N4200,8GB,SATA SSD,AMD Radeon RX 5600M,Windows 10,17,4.71,2587.9
+lenevo,Gaming,Full HD,Intel Pentium Quad Core N4200,12GB,Fusion Drive,Intel Iris Xe Graphics,Windows 10,16,3.63,2676.86
+Asus,Business Laptop,Full HD,AMD A9-Series 9420,12GB,SSD,Intel Iris Xe Graphics,Windows 11,15,2.51,3853.13
+Microsoft,2 in 1 Convertible,2K,Intel Core i7,4GB,HDD,Intel Iris Xe Graphics,Windows 11,12,2.02,3441.83
+Microsoft,2 in 1 Convertible,Full HD,Intel Xeon E3-1505M ,8GB,HDD,Intel Iris Xe Graphics,Linux,17,3.84,3854.72
+Microsoft,2 in 1 Convertible,Full HD,AMD Ryzen 5,4GB,SSHD,Intel Iris Xe Graphics,Windows 10,13,2.88,3473.75
+Apple,WorkStation,Full HD,Intel Xeon E3-1505M ,8GB,SSD,NVIDIA GeForce GTX 1650,No OS,12,2.99,2441.12
+hp,NoteBook,4K,Intel Xeon E3-1505M ,8GB,HDD,AMD Radeon RX 5600M,Linux,14,2.32,3427.11
+Microsoft,2 in 1 Convertible,Full HD,Intel Core i9,8GB,SSD,NVIDIA GeForce GTX 1650,Linux,16,2.6,2228.01
+Microsoft,NoteBook,4K,Intel Core i5,16GB,SSD,NVIDIA GeForce GTX 1650,macOS,11,2.02,3255.14
+Acer,Gaming,Full HD,Intel Core i7,4GB,SSHD,AMD Radeon RX 5600M,Windows 11,15,3.52,3476.07
+Dell,Gaming,4K,Intel Core i7,16GB,SSD,NVIDIA GeForce GTX 1650,Linux,15,2.35,1974.3
+lenevo,UltraBook,Full HD,Intel Pentium Quad Core N4200,16GB,eMMC,Intel Iris Xe Graphics,No OS,16,3.63,3384.65
+Apple,2 in 1 Convertible,Full HD,Intel Core i5,16GB,SSD,Intel Iris Xe Graphics,No OS,13,4.37,2461.1
+Microsoft,2 in 1 Convertible,4K,Intel Pentium Quad Core N4200,16GB,eMMC,AMD Radeon RX 5600M,macOS,12,4.57,2642.95
+Chuwi,NoteBook,4K,Intel Core i7,16GB,eMMC,AMD Radeon RX 5600M,No OS,12,2.39,2616.91
+Apple,UltraBook,Full HD,AMD Ryzen 5,8GB,SSD,AMD Radeon RX 5600M,Windows 11,16,3.81,3604.04
+Acer,WorkStation,4K,Intel Atom x5-Z8550,16GB,HDD,NVIDIA GeForce GTX 1650,macOS,15,2.87,3193.35
+Asus,2 in 1 Convertible,2K,Intel Core i7,8GB,SSD,Intel Iris Xe Graphics,Windows 10,12,3.7,2490.5
+MSI,NoteBook,Full HD,Intel Core i7,8GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,12,2.17,3888.1
+Apple,2 in 1 Convertible,4K,Intel Core i5,16GB,HDD,Intel Iris Xe Graphics,No OS,16,2.85,1999.0
+Asus,WorkStation,Full HD,Intel Atom x5-Z8550,12GB,HDD,Intel Iris Xe Graphics,Windows 10,17,4.87,2167.04
+MSI,Gaming,Full HD,AMD Ryzen 7,16GB,eMMC,NVIDIA GeForce GTX 1650,No OS,14,2.89,2684.15
+Chuwi,Business Laptop,Full HD,Intel Atom x5-Z8550,16GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,15,2.21,3796.9
+Dell,NoteBook,Full HD,Intel Core i5,16GB,HDD,NVIDIA GeForce GTX 1650,No OS,17,2.63,2616.97
+lenevo,UltraBook,Full HD,Intel Core i9,16GB,SSD,AMD Radeon RX 5600M,No OS,14,4.65,2556.16
+Asus,2 in 1 Convertible,4K,Intel Celeron Dual Core 3855U ,12GB,HDD,NVIDIA GeForce GTX 1650,No OS,13,3.14,2007.07
+Acer,Gaming,4K,Intel Core i9,12GB,SSD,Intel Iris Xe Graphics,Linux,17,2.39,3402.3
+Dell,Gaming,4K,AMD A9-Series 9420,8GB,SSD,AMD Radeon RX 5600M,Linux,14,2.23,3985.04
+Dell,WorkStation,4K,Intel Celeron Dual Core 3855U ,16GB,HDD,Intel Iris Xe Graphics,Windows 10,18,4.06,1925.24
+Chuwi,NoteBook,Full HD,Intel Atom x5-Z8550,12GB,SSD,Intel Iris Xe Graphics,macOS,14,4.69,1967.89
+MSI,2 in 1 Convertible,Full HD,Intel Pentium Quad Core N4200,4GB,SATA SSD,Intel Iris Xe Graphics,macOS,14,4.07,2127.59
+Asus,WorkStation,2K,AMD Ryzen 7,12GB,SSD,Intel Iris Xe Graphics,No OS,17,3.96,3556.3
+Dell,2 in 1 Convertible,Full HD,Intel Core i7,16GB,SSD,Intel Iris Xe Graphics,Linux,15,4.23,2584.6
+lenevo,Business Laptop,4K,Intel Core i5,12GB,Fusion Drive,AMD Radeon RX 5600M,Windows 10,14,3.38,3464.12
+MSI,Business Laptop,Full HD,Intel Celeron Dual Core 3855U ,4GB,Flash Storage,Intel Iris Xe Graphics,Windows 11,13,2.53,1839.61
+MSI,UltraBook,4K,AMD A9-Series 9420,4GB,SSD,AMD Radeon RX 5600M,No OS,17,2.04,1817.02
+Chuwi,NoteBook,Full HD,Intel Xeon E3-1505M ,4GB,eMMC,AMD Radeon RX 5600M,Windows 11,15,4.76,2203.73
+Asus,WorkStation,4K,AMD Ryzen 7,4GB,SSD,Intel Iris Xe Graphics,No OS,13,4.87,3028.24
+hp,2 in 1 Convertible,4K,AMD Ryzen 7,16GB,SSD,Intel Iris Xe Graphics,Windows 10,13,4.46,3569.27
+hp,NoteBook,2K,Intel Core i9,16GB,eMMC,AMD Radeon RX 5600M,Linux,15,2.39,3069.36
+Microsoft,Business Laptop,2K,Intel Celeron Dual Core 3855U ,8GB,SSD,AMD Radeon RX 5600M,macOS,18,2.61,3847.79
+Acer,Gaming,Full HD,Intel Atom x5-Z8550,8GB,SSD,Intel Iris Xe Graphics,macOS,16,2.47,3269.79
+MSI,WorkStation,Full HD,Intel Atom x5-Z8550,8GB,SSD,Intel Iris Xe Graphics,macOS,18,4.47,2585.18
+Asus,Gaming,4K,Intel Pentium Quad Core N4200,16GB,Fusion Drive,NVIDIA GeForce GTX 1650,Linux,14,2.89,2400.49
+Microsoft,Business Laptop,Full HD,Intel Pentium Quad Core N4200,4GB,eMMC,NVIDIA GeForce GTX 1650,No OS,13,3.14,2141.75
+Acer,Gaming,4K,Intel Core i7,16GB,SSHD,AMD Radeon RX 5600M,Linux,15,4.72,3869.56
+Apple,2 in 1 Convertible,4K,AMD Ryzen 5,16GB,HDD,AMD Radeon RX 5600M,Windows 10,12,2.9,2741.16
+Microsoft,Business Laptop,4K,Intel Atom x5-Z8550,8GB,SATA SSD,NVIDIA GeForce GTX 1650,No OS,15,4.05,3930.65
+Acer,WorkStation,4K,Intel Xeon E3-1505M ,8GB,eMMC,Intel Iris Xe Graphics,No OS,14,4.94,1870.91
+Acer,2 in 1 Convertible,2K,Intel Pentium Quad Core N4200,16GB,SSD,AMD Radeon RX 5600M,Windows 10,15,3.5,2954.5
+Apple,NoteBook,2K,Intel Core i9,4GB,HDD,NVIDIA GeForce GTX 1650,Linux,11,3.21,1713.44
+lenevo,NoteBook,4K,AMD Ryzen 5,16GB,SSD,NVIDIA GeForce GTX 1650,Linux,16,2.12,2884.33
+MSI,Gaming,2K,AMD Ryzen 5,4GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,14,4.06,3695.06
+Apple,Business Laptop,Full HD,Intel Celeron Dual Core 3855U ,16GB,SSD,NVIDIA GeForce GTX 1650,No OS,14,4.16,3435.37
+Dell,NoteBook,4K,Intel Celeron Dual Core 3855U ,8GB,SSD,NVIDIA GeForce GTX 1650,Linux,12,2.04,4140.64
+MSI,2 in 1 Convertible,Full HD,AMD A9-Series 9420,8GB,eMMC,NVIDIA GeForce GTX 1650,macOS,12,2.69,3964.54
+Microsoft,Gaming,4K,Intel Xeon E3-1505M ,8GB,SSD,AMD Radeon RX 5600M,No OS,12,4.12,1741.85
+MSI,Business Laptop,4K,AMD Ryzen 5,16GB,SSD,AMD Radeon RX 5600M,Linux,12,2.73,1875.26
+Microsoft,NoteBook,4K,Intel Atom x5-Z8550,8GB,eMMC,AMD Radeon RX 5600M,Windows 11,12,2.22,3654.58
+Asus,Business Laptop,Full HD,Intel Core i5,4GB,HDD,AMD Radeon RX 5600M,Windows 11,17,2.81,3815.69
+Asus,UltraBook,Full HD,Intel Atom x5-Z8550,12GB,SSD,Intel Iris Xe Graphics,macOS,17,4.13,2430.54
+lenevo,NoteBook,4K,Intel Celeron Dual Core 3855U ,4GB,HDD,Intel Iris Xe Graphics,macOS,14,4.95,2153.98
+MSI,Gaming,4K,AMD A9-Series 9420,16GB,SATA SSD,Intel Iris Xe Graphics,Windows 10,15,4.88,3338.38
+Apple,WorkStation,2K,Intel Core i5,16GB,HDD,Intel Iris Xe Graphics,Linux,12,2.75,1751.51
+hp,NoteBook,Full HD,Intel Atom x5-Z8550,16GB,SSD,NVIDIA GeForce GTX 1650,Linux,12,2.2,3360.37
+Microsoft,Business Laptop,Full HD,Intel Pentium Quad Core N4200,16GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,13,3.08,3861.06
+Acer,NoteBook,Full HD,AMD A9-Series 9420,4GB,eMMC,Intel Iris Xe Graphics,Windows 10,15,3.32,3945.14
+lenevo,Business Laptop,2K,Intel Atom x5-Z8550,4GB,HDD,NVIDIA GeForce GTX 1650,macOS,15,4.0,3431.66
+Dell,Gaming,2K,AMD Ryzen 7,4GB,SATA SSD,AMD Radeon RX 5600M,No OS,11,2.85,3144.62
+lenevo,2 in 1 Convertible,Full HD,AMD Ryzen 7,8GB,HDD,Intel Iris Xe Graphics,Windows 11,14,2.02,1751.47
+MSI,2 in 1 Convertible,Full HD,Intel Atom x5-Z8550,4GB,HDD,AMD Radeon RX 5600M,macOS,17,2.74,2064.33
+lenevo,2 in 1 Convertible,Full HD,Intel Xeon E3-1505M ,12GB,eMMC,NVIDIA GeForce GTX 1650,No OS,15,2.92,3356.27
+Apple,UltraBook,Full HD,Intel Pentium Quad Core N4200,8GB,HDD,Intel Iris Xe Graphics,Windows 11,15,2.36,2501.4
+Acer,WorkStation,Full HD,Intel Xeon E3-1505M ,16GB,SSD,AMD Radeon RX 5600M,macOS,18,2.42,3972.12
+Acer,2 in 1 Convertible,Full HD,AMD Ryzen 5,12GB,HDD,NVIDIA GeForce GTX 1650,Windows 10,18,2.75,3241.89
+Microsoft,WorkStation,4K,AMD Ryzen 7,12GB,SATA SSD,Intel Iris Xe Graphics,Windows 11,14,2.45,2844.09
+Dell,WorkStation,2K,Intel Core i7,8GB,HDD,AMD Radeon RX 5600M,Linux,14,4.99,5126.79
+Dell,Business Laptop,4K,AMD Ryzen 5,12GB,SSD,AMD Radeon RX 5600M,Linux,13,2.61,3146.04
+Dell,Business Laptop,2K,Intel Atom x5-Z8550,8GB,SSHD,NVIDIA GeForce GTX 1650,Windows 10,13,4.99,4598.42
+Acer,WorkStation,4K,AMD A9-Series 9420,12GB,eMMC,Intel Iris Xe Graphics,Windows 10,12,4.78,3221.32
+Apple,Business Laptop,Full HD,Intel Xeon E3-1505M ,12GB,HDD,AMD Radeon RX 5600M,Windows 10,15,2.47,3512.59
+Microsoft,2 in 1 Convertible,2K,Intel Celeron Dual Core 3855U ,4GB,Fusion Drive,AMD Radeon RX 5600M,Linux,11,4.0,3071.65
+Apple,2 in 1 Convertible,4K,Intel Xeon E3-1505M ,8GB,eMMC,AMD Radeon RX 5600M,macOS,13,2.56,2348.59
+Chuwi,UltraBook,Full HD,Intel Core i5,4GB,HDD,AMD Radeon RX 5600M,Windows 11,14,3.93,1829.28
+lenevo,UltraBook,Full HD,Intel Xeon E3-1505M ,4GB,SSHD,Intel Iris Xe Graphics,Linux,15,3.36,3507.59
+hp,NoteBook,2K,AMD A9-Series 9420,16GB,HDD,Intel Iris Xe Graphics,No OS,15,4.14,2513.22
+MSI,UltraBook,4K,Intel Core i7,8GB,SSHD,NVIDIA GeForce GTX 1650,No OS,18,3.13,3214.18
+Asus,Business Laptop,Full HD,AMD Ryzen 5,4GB,SSD,Intel Iris Xe Graphics,No OS,12,4.63,1941.18
+Acer,Gaming,4K,Intel Core i9,16GB,SATA SSD,NVIDIA GeForce GTX 1650,Windows 11,14,2.48,2362.61
+Dell,Gaming,Full HD,Intel Pentium Quad Core N4200,4GB,HDD,NVIDIA GeForce GTX 1650,macOS,17,4.74,3107.09
+MSI,Business Laptop,Full HD,Intel Core i7,16GB,SSD,AMD Radeon RX 5600M,Linux,17,3.36,2003.94
+hp,2 in 1 Convertible,Full HD,Intel Core i9,12GB,SSD,AMD Radeon RX 5600M,Linux,18,4.2,3624.42
+Chuwi,UltraBook,Full HD,Intel Xeon E3-1505M ,12GB,eMMC,NVIDIA GeForce GTX 1650,Windows 11,12,3.95,3350.89
+lenevo,Gaming,Full HD,Intel Core i7,12GB,SSD,Intel Iris Xe Graphics,Windows 11,12,2.12,3297.08
+hp,Gaming,4K,AMD Ryzen 7,16GB,SSD,AMD Radeon RX 5600M,macOS,14,2.44,3820.22
+Chuwi,Business Laptop,Full HD,Intel Xeon E3-1505M ,4GB,SSHD,NVIDIA GeForce GTX 1650,Linux,16,2.62,3340.67
+Chuwi,Gaming,2K,Intel Celeron Dual Core 3855U ,16GB,SSD,Intel Iris Xe Graphics,macOS,12,4.45,2320.12
+Apple,2 in 1 Convertible,Full HD,Intel Core i7,8GB,SSD,Intel Iris Xe Graphics,Windows 10,16,2.0,3558.72
+Dell,NoteBook,Full HD,Intel Pentium Quad Core N4200,4GB,SSD,Intel Iris Xe Graphics,macOS,15,3.01,2334.4
+hp,NoteBook,2K,AMD Ryzen 5,16GB,SSD,AMD Radeon RX 5600M,Linux,14,3.77,1830.83
+Microsoft,Gaming,4K,Intel Atom x5-Z8550,12GB,SSD,Intel Iris Xe Graphics,Linux,17,4.77,2591.64
+Microsoft,2 in 1 Convertible,Full HD,Intel Atom x5-Z8550,12GB,Flash Storage,NVIDIA GeForce GTX 1650,No OS,11,4.71,2858.28
+Apple,NoteBook,4K,Intel Core i7,12GB,SSD,NVIDIA GeForce GTX 1650,macOS,15,4.41,2833.1
+MSI,WorkStation,4K,Intel Celeron Dual Core 3855U ,12GB,SSD,AMD Radeon RX 5600M,Windows 10,12,2.93,3457.96
+lenevo,UltraBook,Full HD,AMD Ryzen 5,4GB,HDD,Intel Iris Xe Graphics,Windows 11,17,2.65,1728.09
+Microsoft,WorkStation,2K,Intel Celeron Dual Core 3855U ,4GB,SSD,NVIDIA GeForce GTX 1650,Linux,12,4.68,3817.03
+Apple,Gaming,Full HD,Intel Xeon E3-1505M ,16GB,HDD,NVIDIA GeForce GTX 1650,macOS,16,2.1,6189.33
+MSI,2 in 1 Convertible,Full HD,Intel Celeron Dual Core 3855U ,12GB,HDD,NVIDIA GeForce GTX 1650,macOS,11,2.95,2591.47
+Asus,2 in 1 Convertible,4K,Intel Celeron Dual Core 3855U ,4GB,HDD,AMD Radeon RX 5600M,Windows 11,12,3.99,2959.45
+Microsoft,WorkStation,2K,AMD Ryzen 5,8GB,HDD,Intel Iris Xe Graphics,Windows 10,13,2.12,2764.19
+Microsoft,WorkStation,Full HD,AMD Ryzen 5,8GB,HDD,AMD Radeon RX 5600M,No OS,11,3.05,3959.36
+MSI,NoteBook,Full HD,Intel Xeon E3-1505M ,16GB,Fusion Drive,Intel Iris Xe Graphics,No OS,16,2.69,3790.29
+hp,NoteBook,Full HD,Intel Xeon E3-1505M ,4GB,SSD,AMD Radeon RX 5600M,Windows 10,16,2.31,2973.23
+MSI,WorkStation,2K,Intel Pentium Quad Core N4200,8GB,SSD,Intel Iris Xe Graphics,Windows 10,17,3.53,2722.79
+MSI,NoteBook,4K,Intel Core i5,8GB,eMMC,AMD Radeon RX 5600M,Linux,16,3.7,2626.5
+Chuwi,NoteBook,4K,Intel Atom x5-Z8550,8GB,Flash Storage,NVIDIA GeForce GTX 1650,macOS,14,3.89,3031.0
+Dell,UltraBook,2K,AMD Ryzen 5,4GB,SSD,AMD Radeon RX 5600M,Linux,18,4.94,2013.4
+hp,Gaming,2K,Intel Xeon E3-1505M ,16GB,SSD,AMD Radeon RX 5600M,Windows 10,13,2.31,3814.05
+hp,UltraBook,4K,Intel Celeron Dual Core 3855U ,12GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,12,4.38,3788.49
+Asus,2 in 1 Convertible,2K,Intel Core i5,4GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,15,4.94,3011.76
+Apple,Gaming,Full HD,Intel Celeron Dual Core 3855U ,16GB,HDD,Intel Iris Xe Graphics,macOS,12,4.02,6154.87
+Apple,UltraBook,Full HD,Intel Celeron Dual Core 3855U ,16GB,SSD,NVIDIA GeForce GTX 1650,macOS,18,2.86,6562.83
+Chuwi,UltraBook,Full HD,AMD A9-Series 9420,4GB,SATA SSD,NVIDIA GeForce GTX 1650,Linux,13,2.75,1869.88
+Dell,NoteBook,4K,Intel Core i9,8GB,SSD,NVIDIA GeForce GTX 1650,No OS,14,2.75,3791.89
+Asus,2 in 1 Convertible,4K,Intel Pentium Quad Core N4200,12GB,SSD,NVIDIA GeForce GTX 1650,macOS,13,2.85,3442.89
+Acer,NoteBook,2K,AMD Ryzen 7,4GB,HDD,AMD Radeon RX 5600M,macOS,17,2.33,2543.85
+Acer,WorkStation,2K,AMD A9-Series 9420,16GB,Fusion Drive,Intel Iris Xe Graphics,Windows 11,14,2.58,1921.4
+MSI,NoteBook,Full HD,Intel Core i9,8GB,SATA SSD,AMD Radeon RX 5600M,No OS,17,4.18,2818.48
+MSI,NoteBook,Full HD,Intel Core i7,12GB,HDD,NVIDIA GeForce GTX 1650,Windows 10,17,4.46,2668.07
+Microsoft,Business Laptop,4K,Intel Core i5,4GB,Fusion Drive,Intel Iris Xe Graphics,Windows 11,16,3.18,3748.01
+Asus,UltraBook,Full HD,Intel Core i7,8GB,HDD,AMD Radeon RX 5600M,Linux,11,2.27,2103.4
+Microsoft,UltraBook,4K,AMD A9-Series 9420,16GB,Flash Storage,Intel Iris Xe Graphics,Linux,15,2.39,3749.24
+Asus,NoteBook,Full HD,Intel Core i7,12GB,SATA SSD,AMD Radeon RX 5600M,Linux,12,2.55,1746.07
+MSI,Gaming,4K,Intel Core i7,4GB,SSD,NVIDIA GeForce GTX 1650,Linux,14,3.14,3502.56
+Microsoft,WorkStation,Full HD,Intel Core i5,16GB,HDD,Intel Iris Xe Graphics,No OS,16,3.62,3525.25
+Dell,Business Laptop,Full HD,Intel Core i9,8GB,Flash Storage,NVIDIA GeForce GTX 1650,Windows 10,16,4.9,4783.54
+MSI,NoteBook,4K,AMD Ryzen 7,12GB,HDD,AMD Radeon RX 5600M,Linux,17,3.05,3912.36
+MSI,Gaming,Full HD,AMD A9-Series 9420,8GB,Fusion Drive,Intel Iris Xe Graphics,Linux,15,3.66,2031.39
+lenevo,UltraBook,2K,AMD Ryzen 7,16GB,eMMC,Intel Iris Xe Graphics,Linux,17,3.27,2960.21
+Dell,UltraBook,4K,AMD Ryzen 5,8GB,eMMC,Intel Iris Xe Graphics,Windows 10,15,4.1,4748.33
+lenevo,Business Laptop,Full HD,Intel Xeon E3-1505M ,4GB,SSD,AMD Radeon RX 5600M,Linux,13,3.59,2658.73
+Apple,2 in 1 Convertible,4K,Intel Core i7,4GB,HDD,NVIDIA GeForce GTX 1650,No OS,17,2.93,3062.83
+Apple,WorkStation,2K,AMD Ryzen 5,12GB,Fusion Drive,AMD Radeon RX 5600M,Linux,15,3.14,2647.0
+Apple,UltraBook,Full HD,AMD Ryzen 5,16GB,HDD,AMD Radeon RX 5600M,Windows 10,15,4.56,3113.49
+lenevo,Gaming,Full HD,AMD Ryzen 7,8GB,Flash Storage,AMD Radeon RX 5600M,macOS,14,4.91,2630.62
+Chuwi,Business Laptop,4K,AMD Ryzen 7,4GB,SSD,Intel Iris Xe Graphics,Linux,16,3.22,2534.93
+Asus,WorkStation,4K,Intel Core i7,12GB,Flash Storage,AMD Radeon RX 5600M,macOS,14,2.59,3482.33
+Acer,NoteBook,4K,Intel Core i9,8GB,SSD,AMD Radeon RX 5600M,Windows 11,11,2.51,2665.54
+hp,Business Laptop,4K,AMD A9-Series 9420,4GB,SSD,NVIDIA GeForce GTX 1650,macOS,16,4.14,1722.86
+Acer,WorkStation,Full HD,Intel Pentium Quad Core N4200,8GB,HDD,Intel Iris Xe Graphics,Linux,15,2.03,2539.37
+Apple,2 in 1 Convertible,2K,Intel Xeon E3-1505M ,4GB,SSD,NVIDIA GeForce GTX 1650,macOS,12,4.32,3301.25
+hp,2 in 1 Convertible,Full HD,Intel Celeron Dual Core 3855U ,8GB,HDD,AMD Radeon RX 5600M,Windows 11,15,4.24,3373.54
+Acer,Gaming,Full HD,Intel Xeon E3-1505M ,8GB,HDD,AMD Radeon RX 5600M,Windows 10,13,3.77,2312.3
+Apple,NoteBook,Full HD,AMD Ryzen 7,12GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,13,4.42,3358.14
+Apple,Gaming,Full HD,Intel Xeon E3-1505M ,8GB,SSD,AMD Radeon RX 5600M,No OS,17,3.99,1904.23
+Asus,Gaming,Full HD,Intel Atom x5-Z8550,12GB,HDD,NVIDIA GeForce GTX 1650,Linux,17,3.96,3782.49
+Microsoft,Gaming,Full HD,AMD A9-Series 9420,16GB,HDD,Intel Iris Xe Graphics,No OS,15,4.11,1917.34
+lenevo,Business Laptop,4K,Intel Xeon E3-1505M ,4GB,HDD,Intel Iris Xe Graphics,No OS,18,4.5,2637.78
+Dell,WorkStation,4K,AMD Ryzen 5,4GB,eMMC,Intel Iris Xe Graphics,Linux,12,3.45,2946.2
+MSI,NoteBook,2K,AMD A9-Series 9420,4GB,HDD,AMD Radeon RX 5600M,Linux,13,3.74,3639.17
+Apple,Gaming,2K,Intel Core i7,16GB,SSD,AMD Radeon RX 5600M,No OS,16,3.82,1899.21
+Asus,UltraBook,4K,Intel Core i5,4GB,SSD,Intel Iris Xe Graphics,Linux,16,3.8,2131.77
+Asus,Gaming,2K,Intel Core i5,4GB,HDD,AMD Radeon RX 5600M,Linux,13,3.89,2880.97
+Apple,2 in 1 Convertible,2K,Intel Atom x5-Z8550,12GB,HDD,NVIDIA GeForce GTX 1650,Windows 10,13,3.24,3134.32
+Chuwi,2 in 1 Convertible,Full HD,Intel Atom x5-Z8550,8GB,HDD,AMD Radeon RX 5600M,Windows 11,14,3.22,2626.4
+Microsoft,2 in 1 Convertible,Full HD,AMD A9-Series 9420,8GB,SSD,NVIDIA GeForce GTX 1650,Linux,13,3.57,2056.11
+MSI,Business Laptop,2K,AMD Ryzen 7,16GB,SSD,AMD Radeon RX 5600M,Windows 10,14,4.7,3176.53
+Apple,UltraBook,4K,Intel Pentium Quad Core N4200,8GB,HDD,Intel Iris Xe Graphics,Windows 11,14,4.25,2700.59
+Microsoft,2 in 1 Convertible,Full HD,Intel Xeon E3-1505M ,12GB,HDD,Intel Iris Xe Graphics,Windows 10,15,3.15,3845.85
+Chuwi,2 in 1 Convertible,4K,AMD Ryzen 7,16GB,SSD,Intel Iris Xe Graphics,macOS,12,4.36,3896.32
+MSI,NoteBook,Full HD,Intel Celeron Dual Core 3855U ,12GB,SSD,Intel Iris Xe Graphics,Windows 10,18,4.57,3446.88
+hp,Gaming,4K,Intel Atom x5-Z8550,12GB,SSD,NVIDIA GeForce GTX 1650,Linux,11,4.74,3988.65
+Microsoft,Gaming,2K,AMD Ryzen 7,12GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,16,2.27,3380.17
+hp,Gaming,2K,AMD Ryzen 7,12GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,14,3.21,4052.3
+Apple,2 in 1 Convertible,4K,Intel Core i5,16GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,16,4.48,3416.14
+Acer,Gaming,Full HD,Intel Core i9,12GB,SSD,Intel Iris Xe Graphics,macOS,17,3.97,2023.03
+lenevo,Gaming,4K,Intel Core i5,8GB,HDD,NVIDIA GeForce GTX 1650,No OS,12,3.71,2978.18
+Acer,UltraBook,Full HD,Intel Celeron Dual Core 3855U ,16GB,eMMC,Intel Iris Xe Graphics,macOS,11,3.31,2757.34
+Dell,WorkStation,Full HD,Intel Xeon E3-1505M ,12GB,HDD,AMD Radeon RX 5600M,Windows 11,18,4.06,2103.45
+lenevo,WorkStation,Full HD,AMD Ryzen 5,4GB,HDD,NVIDIA GeForce GTX 1650,macOS,18,2.56,2341.25
+Microsoft,NoteBook,Full HD,Intel Core i9,8GB,HDD,NVIDIA GeForce GTX 1650,No OS,17,2.54,1903.5
+Chuwi,WorkStation,Full HD,AMD A9-Series 9420,8GB,SSD,NVIDIA GeForce GTX 1650,Linux,16,4.28,2804.86
+Dell,Gaming,4K,AMD Ryzen 5,16GB,HDD,AMD Radeon RX 5600M,No OS,11,2.67,1743.79
+Microsoft,Gaming,Full HD,Intel Core i9,12GB,SSD,AMD Radeon RX 5600M,No OS,11,4.63,3380.4
+Microsoft,Business Laptop,2K,Intel Core i7,16GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,12,4.77,1737.29
+Microsoft,Business Laptop,Full HD,AMD A9-Series 9420,8GB,SSD,Intel Iris Xe Graphics,Windows 11,11,3.38,3154.23
+Chuwi,2 in 1 Convertible,4K,Intel Xeon E3-1505M ,12GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,18,4.49,2011.91
+Asus,Gaming,Full HD,Intel Atom x5-Z8550,16GB,SSD,AMD Radeon RX 5600M,Linux,16,3.22,2168.65
+Chuwi,WorkStation,Full HD,Intel Core i5,4GB,SSD,AMD Radeon RX 5600M,Windows 10,15,3.45,1932.16
+Acer,Business Laptop,Full HD,Intel Xeon E3-1505M ,4GB,SSD,AMD Radeon RX 5600M,Windows 10,17,2.69,3126.86
+Asus,WorkStation,Full HD,Intel Core i5,16GB,SSD,AMD Radeon RX 5600M,Windows 11,16,4.47,2281.28
+MSI,Gaming,Full HD,AMD Ryzen 7,16GB,SATA SSD,NVIDIA GeForce GTX 1650,Windows 11,14,4.68,3135.57
+hp,2 in 1 Convertible,Full HD,AMD A9-Series 9420,8GB,Flash Storage,NVIDIA GeForce GTX 1650,macOS,12,3.08,3627.69
+MSI,2 in 1 Convertible,Full HD,AMD A9-Series 9420,4GB,HDD,Intel Iris Xe Graphics,No OS,16,2.07,2949.53
+hp,UltraBook,4K,Intel Core i9,8GB,Fusion Drive,Intel Iris Xe Graphics,Windows 10,17,4.57,2342.48
+MSI,WorkStation,Full HD,AMD Ryzen 7,12GB,SSHD,AMD Radeon RX 5600M,Linux,17,4.18,2575.2
+Asus,2 in 1 Convertible,Full HD,Intel Core i5,16GB,Fusion Drive,NVIDIA GeForce GTX 1650,macOS,16,4.15,3624.69
+Dell,UltraBook,4K,Intel Core i9,4GB,eMMC,Intel Iris Xe Graphics,Windows 10,16,4.35,2534.94
+Asus,Business Laptop,Full HD,Intel Core i9,12GB,SSD,AMD Radeon RX 5600M,No OS,17,4.67,2785.1
+Dell,Business Laptop,4K,Intel Core i9,4GB,eMMC,Intel Iris Xe Graphics,Windows 11,13,2.91,1988.33
+MSI,UltraBook,2K,Intel Xeon E3-1505M ,8GB,HDD,NVIDIA GeForce GTX 1650,Windows 10,17,2.01,3186.84
+Apple,Gaming,4K,AMD A9-Series 9420,16GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,14,4.85,3442.26
+hp,WorkStation,Full HD,Intel Celeron Dual Core 3855U ,16GB,SSD,Intel Iris Xe Graphics,macOS,18,3.8,1810.88
+MSI,NoteBook,Full HD,Intel Core i9,8GB,eMMC,AMD Radeon RX 5600M,macOS,18,4.57,2839.78
+Asus,UltraBook,2K,Intel Core i7,16GB,Fusion Drive,Intel Iris Xe Graphics,No OS,17,4.79,3419.54
+Dell,WorkStation,Full HD,Intel Atom x5-Z8550,8GB,HDD,AMD Radeon RX 5600M,Linux,17,4.83,3847.65
+Chuwi,Gaming,4K,Intel Xeon E3-1505M ,12GB,eMMC,Intel Iris Xe Graphics,Linux,12,4.86,3803.17
+Apple,Business Laptop,4K,AMD Ryzen 5,12GB,eMMC,NVIDIA GeForce GTX 1650,Linux,12,3.61,3426.59
+Chuwi,Gaming,4K,Intel Xeon E3-1505M ,12GB,SSHD,AMD Radeon RX 5600M,Linux,17,4.35,2208.29
+Dell,UltraBook,Full HD,AMD Ryzen 7,16GB,SSD,AMD Radeon RX 5600M,macOS,17,3.88,3678.86
+Acer,Gaming,Full HD,Intel Atom x5-Z8550,8GB,eMMC,AMD Radeon RX 5600M,macOS,15,2.75,2819.42
+lenevo,WorkStation,4K,AMD A9-Series 9420,12GB,HDD,AMD Radeon RX 5600M,Windows 10,15,3.47,1943.14
+Acer,UltraBook,2K,Intel Core i7,16GB,HDD,Intel Iris Xe Graphics,Linux,14,4.45,3830.97
+lenevo,NoteBook,2K,Intel Core i5,16GB,SSD,AMD Radeon RX 5600M,Linux,12,2.98,2484.13
+Acer,NoteBook,Full HD,Intel Core i9,4GB,HDD,Intel Iris Xe Graphics,No OS,14,2.11,2678.26
+Microsoft,NoteBook,2K,Intel Core i5,4GB,SSHD,AMD Radeon RX 5600M,Linux,15,2.37,2875.12
+Acer,NoteBook,Full HD,Intel Xeon E3-1505M ,8GB,SSD,AMD Radeon RX 5600M,macOS,13,2.24,3476.39
+Asus,Gaming,2K,AMD Ryzen 7,8GB,HDD,AMD Radeon RX 5600M,macOS,16,2.38,2168.52
+Chuwi,WorkStation,Full HD,Intel Pentium Quad Core N4200,8GB,HDD,AMD Radeon RX 5600M,Windows 11,14,4.33,2735.05
+Apple,Gaming,Full HD,Intel Pentium Quad Core N4200,4GB,SSD,Intel Iris Xe Graphics,No OS,12,4.2,2755.65
+hp,NoteBook,Full HD,Intel Core i9,16GB,SSD,NVIDIA GeForce GTX 1650,No OS,18,3.71,2562.62
+Microsoft,2 in 1 Convertible,4K,Intel Core i9,4GB,eMMC,NVIDIA GeForce GTX 1650,No OS,12,3.83,2099.25
+Asus,Gaming,Full HD,Intel Celeron Dual Core 3855U ,4GB,HDD,Intel Iris Xe Graphics,Windows 11,14,4.49,2360.14
+Chuwi,Business Laptop,4K,AMD Ryzen 5,4GB,Flash Storage,AMD Radeon RX 5600M,No OS,12,2.05,3983.35
+Apple,Gaming,4K,AMD A9-Series 9420,12GB,SSD,Intel Iris Xe Graphics,macOS,13,2.77,2492.8
+Apple,WorkStation,2K,Intel Atom x5-Z8550,4GB,SSHD,AMD Radeon RX 5600M,No OS,11,4.42,3263.88
+lenevo,Business Laptop,Full HD,Intel Core i9,4GB,SSD,AMD Radeon RX 5600M,macOS,14,3.38,2096.89
+lenevo,NoteBook,Full HD,Intel Xeon E3-1505M ,12GB,eMMC,AMD Radeon RX 5600M,Linux,13,4.34,3653.05
+Apple,WorkStation,4K,Intel Pentium Quad Core N4200,4GB,SSD,AMD Radeon RX 5600M,Windows 11,12,2.32,2053.56
+Dell,Gaming,Full HD,Intel Core i7,8GB,SSHD,NVIDIA GeForce GTX 1650,macOS,11,4.66,4672.3
+hp,Business Laptop,4K,Intel Core i5,16GB,SSHD,AMD Radeon RX 5600M,macOS,16,2.25,3517.96
+Acer,2 in 1 Convertible,Full HD,Intel Core i7,12GB,eMMC,AMD Radeon RX 5600M,Windows 11,14,3.37,2381.78
+Chuwi,UltraBook,Full HD,Intel Xeon E3-1505M ,16GB,SSHD,Intel Iris Xe Graphics,Windows 10,14,3.82,3702.02
+Apple,2 in 1 Convertible,Full HD,Intel Core i5,12GB,HDD,Intel Iris Xe Graphics,No OS,15,3.5,2012.72
+hp,Business Laptop,2K,Intel Core i9,8GB,SATA SSD,NVIDIA GeForce GTX 1650,Windows 11,18,4.3,3539.57
+Acer,NoteBook,4K,Intel Pentium Quad Core N4200,16GB,HDD,AMD Radeon RX 5600M,Windows 10,12,4.05,1857.8
+Chuwi,Business Laptop,Full HD,AMD A9-Series 9420,12GB,Flash Storage,NVIDIA GeForce GTX 1650,Linux,13,3.84,3330.34
+Microsoft,WorkStation,Full HD,Intel Atom x5-Z8550,8GB,SSD,Intel Iris Xe Graphics,Windows 10,11,3.91,2192.85
+MSI,Business Laptop,2K,Intel Pentium Quad Core N4200,16GB,HDD,Intel Iris Xe Graphics,Windows 10,18,4.09,3668.52
+hp,Business Laptop,Full HD,Intel Xeon E3-1505M ,12GB,SSD,AMD Radeon RX 5600M,No OS,13,4.28,4187.75
+Chuwi,WorkStation,Full HD,Intel Core i5,12GB,SSD,AMD Radeon RX 5600M,Linux,15,2.4,3330.8
+Microsoft,WorkStation,4K,Intel Core i5,8GB,SSD,Intel Iris Xe Graphics,No OS,15,3.19,3749.82
+Asus,NoteBook,Full HD,AMD Ryzen 7,16GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,14,2.9,3157.33
+Chuwi,UltraBook,Full HD,Intel Core i5,8GB,SSD,Intel Iris Xe Graphics,macOS,14,3.42,2311.49
+hp,Gaming,Full HD,Intel Core i5,4GB,SATA SSD,Intel Iris Xe Graphics,Linux,17,2.22,3608.18
+hp,2 in 1 Convertible,4K,AMD A9-Series 9420,12GB,HDD,Intel Iris Xe Graphics,Linux,11,3.59,4173.72
+Asus,2 in 1 Convertible,Full HD,AMD Ryzen 5,4GB,SSD,AMD Radeon RX 5600M,Windows 11,11,2.27,2421.59
+MSI,UltraBook,4K,AMD Ryzen 7,4GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,12,2.85,3973.68
+Apple,NoteBook,2K,Intel Core i9,4GB,SSD,AMD Radeon RX 5600M,Windows 11,18,4.19,3927.25
+lenevo,WorkStation,Full HD,Intel Core i7,4GB,HDD,Intel Iris Xe Graphics,Windows 11,12,4.9,2160.24
+Asus,UltraBook,4K,Intel Pentium Quad Core N4200,4GB,SSD,NVIDIA GeForce GTX 1650,macOS,12,2.32,3609.54
+hp,2 in 1 Convertible,Full HD,AMD Ryzen 5,4GB,SSD,Intel Iris Xe Graphics,Windows 10,17,3.81,2032.01
+Chuwi,Gaming,Full HD,Intel Xeon E3-1505M ,4GB,eMMC,NVIDIA GeForce GTX 1650,Linux,14,4.2,3827.66
+Acer,WorkStation,Full HD,Intel Core i7,4GB,Flash Storage,AMD Radeon RX 5600M,macOS,16,2.56,2788.28
+Asus,WorkStation,4K,Intel Core i5,4GB,SSD,Intel Iris Xe Graphics,No OS,17,2.81,1893.12
+hp,2 in 1 Convertible,4K,Intel Core i9,4GB,SSD,Intel Iris Xe Graphics,macOS,14,4.23,3244.0
+Microsoft,NoteBook,Full HD,Intel Core i9,16GB,SSD,AMD Radeon RX 5600M,macOS,13,2.38,3296.71
+hp,NoteBook,4K,Intel Core i5,4GB,HDD,Intel Iris Xe Graphics,Linux,12,2.88,1726.82
+Asus,Gaming,Full HD,Intel Atom x5-Z8550,12GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,11,3.26,2308.16
+Acer,2 in 1 Convertible,Full HD,Intel Xeon E3-1505M ,16GB,Flash Storage,AMD Radeon RX 5600M,Windows 11,14,3.46,2995.99
+MSI,Gaming,2K,AMD A9-Series 9420,4GB,SSD,AMD Radeon RX 5600M,Linux,14,3.89,2992.65
+Chuwi,Business Laptop,Full HD,Intel Xeon E3-1505M ,16GB,SSD,NVIDIA GeForce GTX 1650,macOS,17,2.76,3573.08
+Microsoft,NoteBook,Full HD,Intel Atom x5-Z8550,16GB,SATA SSD,Intel Iris Xe Graphics,Windows 10,17,2.42,2005.16
+Chuwi,WorkStation,Full HD,Intel Atom x5-Z8550,12GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,16,2.58,2518.54
+Dell,Gaming,4K,Intel Core i9,16GB,Flash Storage,NVIDIA GeForce GTX 1650,Linux,14,4.51,2189.6
+Chuwi,Business Laptop,2K,Intel Core i9,4GB,Fusion Drive,AMD Radeon RX 5600M,No OS,12,4.09,3266.14
+Acer,Business Laptop,4K,Intel Core i5,12GB,Fusion Drive,NVIDIA GeForce GTX 1650,macOS,17,4.59,2812.33
+Microsoft,UltraBook,Full HD,AMD Ryzen 7,8GB,HDD,AMD Radeon RX 5600M,macOS,16,2.7,3006.98
+lenevo,WorkStation,Full HD,Intel Pentium Quad Core N4200,12GB,SSD,Intel Iris Xe Graphics,macOS,12,2.94,3755.37
+Acer,UltraBook,4K,Intel Core i5,8GB,HDD,Intel Iris Xe Graphics,Windows 10,14,4.53,2990.76
+Apple,UltraBook,2K,Intel Pentium Quad Core N4200,8GB,eMMC,NVIDIA GeForce GTX 1650,Linux,14,2.68,1895.51
+Apple,2 in 1 Convertible,Full HD,AMD Ryzen 7,12GB,SSHD,NVIDIA GeForce GTX 1650,macOS,17,2.2,3120.86
+Acer,NoteBook,Full HD,AMD Ryzen 7,4GB,SATA SSD,Intel Iris Xe Graphics,Linux,13,2.78,2517.62
+MSI,WorkStation,Full HD,Intel Core i9,16GB,SATA SSD,AMD Radeon RX 5600M,Windows 10,14,3.73,3751.44
+Dell,2 in 1 Convertible,4K,AMD Ryzen 5,8GB,eMMC,Intel Iris Xe Graphics,No OS,18,2.61,4452.31
+Chuwi,Business Laptop,4K,AMD A9-Series 9420,8GB,Fusion Drive,AMD Radeon RX 5600M,No OS,13,3.31,2037.87
+Microsoft,NoteBook,Full HD,Intel Atom x5-Z8550,4GB,SATA SSD,NVIDIA GeForce GTX 1650,No OS,17,4.83,3844.14
+Dell,Business Laptop,4K,Intel Pentium Quad Core N4200,8GB,SSD,AMD Radeon RX 5600M,Linux,16,4.54,5689.06
+Asus,Business Laptop,Full HD,Intel Celeron Dual Core 3855U ,4GB,SSD,NVIDIA GeForce GTX 1650,No OS,15,4.56,3585.74
+Dell,WorkStation,Full HD,Intel Core i5,16GB,SSD,NVIDIA GeForce GTX 1650,macOS,13,3.68,2541.51
+Asus,UltraBook,4K,Intel Core i7,4GB,Fusion Drive,AMD Radeon RX 5600M,Windows 10,17,4.8,2775.99
+Apple,NoteBook,Full HD,AMD A9-Series 9420,12GB,SATA SSD,Intel Iris Xe Graphics,Windows 11,15,2.84,3101.15
+Chuwi,Business Laptop,4K,Intel Atom x5-Z8550,4GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,18,2.93,1983.95
+Apple,Business Laptop,4K,Intel Celeron Dual Core 3855U ,8GB,SSD,AMD Radeon RX 5600M,Linux,15,3.45,2696.45
+Acer,2 in 1 Convertible,Full HD,Intel Core i5,16GB,eMMC,Intel Iris Xe Graphics,macOS,16,2.2,3404.63
+Asus,NoteBook,2K,Intel Celeron Dual Core 3855U ,16GB,Flash Storage,Intel Iris Xe Graphics,Windows 11,12,2.95,3743.19
+Asus,2 in 1 Convertible,Full HD,Intel Atom x5-Z8550,8GB,SSD,NVIDIA GeForce GTX 1650,No OS,14,2.49,2173.76
+Microsoft,2 in 1 Convertible,4K,Intel Core i9,8GB,HDD,NVIDIA GeForce GTX 1650,No OS,12,3.65,3965.16
+lenevo,UltraBook,4K,AMD Ryzen 7,4GB,SATA SSD,Intel Iris Xe Graphics,Linux,16,4.62,2697.62
+Asus,WorkStation,2K,AMD Ryzen 5,16GB,SSD,AMD Radeon RX 5600M,macOS,13,3.42,2929.47
+Dell,NoteBook,4K,AMD Ryzen 7,12GB,Flash Storage,Intel Iris Xe Graphics,Windows 11,15,3.02,2123.98
+Dell,Gaming,Full HD,Intel Core i5,16GB,SSHD,NVIDIA GeForce GTX 1650,No OS,18,4.27,3497.92
+Apple,UltraBook,4K,Intel Celeron Dual Core 3855U ,16GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,18,4.73,3677.32
+Asus,WorkStation,Full HD,Intel Celeron Dual Core 3855U ,4GB,SSD,AMD Radeon RX 5600M,No OS,17,4.11,3749.83
+hp,WorkStation,4K,AMD A9-Series 9420,4GB,eMMC,Intel Iris Xe Graphics,No OS,12,3.81,2953.73
+Microsoft,Business Laptop,4K,Intel Core i5,4GB,SATA SSD,NVIDIA GeForce GTX 1650,Windows 10,18,2.38,3561.91
+lenevo,UltraBook,Full HD,Intel Celeron Dual Core 3855U ,8GB,HDD,NVIDIA GeForce GTX 1650,No OS,16,2.98,2094.25
+Apple,UltraBook,4K,Intel Core i7,16GB,Flash Storage,Intel Iris Xe Graphics,Windows 10,16,2.08,3259.7
+Asus,WorkStation,Full HD,Intel Pentium Quad Core N4200,12GB,SSD,AMD Radeon RX 5600M,Windows 11,11,2.38,2419.31
+Asus,UltraBook,2K,Intel Celeron Dual Core 3855U ,16GB,SSD,NVIDIA GeForce GTX 1650,macOS,16,2.41,2402.95
+Apple,WorkStation,4K,Intel Celeron Dual Core 3855U ,8GB,HDD,NVIDIA GeForce GTX 1650,No OS,12,3.18,2353.23
+Dell,NoteBook,4K,Intel Xeon E3-1505M ,12GB,Fusion Drive,NVIDIA GeForce GTX 1650,Windows 10,12,3.84,3104.03
+lenevo,2 in 1 Convertible,4K,AMD Ryzen 5,12GB,SSD,Intel Iris Xe Graphics,Windows 10,11,3.54,3681.71
+lenevo,NoteBook,4K,Intel Celeron Dual Core 3855U ,12GB,SATA SSD,NVIDIA GeForce GTX 1650,Windows 11,12,4.73,1715.4
+Acer,Gaming,Full HD,Intel Core i9,8GB,SSHD,NVIDIA GeForce GTX 1650,Windows 11,12,2.02,2388.16
+Dell,UltraBook,Full HD,Intel Celeron Dual Core 3855U ,12GB,HDD,AMD Radeon RX 5600M,Windows 10,15,3.48,2237.71
+Chuwi,Business Laptop,2K,Intel Core i9,4GB,HDD,AMD Radeon RX 5600M,Windows 11,17,4.41,3494.6
+Apple,Gaming,4K,AMD Ryzen 5,4GB,SSD,AMD Radeon RX 5600M,Windows 11,13,3.0,2931.96
+Microsoft,Business Laptop,4K,AMD Ryzen 7,8GB,HDD,Intel Iris Xe Graphics,macOS,15,4.26,1923.38
+Asus,UltraBook,2K,Intel Pentium Quad Core N4200,12GB,SATA SSD,NVIDIA GeForce GTX 1650,macOS,11,3.47,3738.43
+hp,UltraBook,2K,Intel Atom x5-Z8550,12GB,SSD,NVIDIA GeForce GTX 1650,macOS,11,3.19,4224.28
+Chuwi,NoteBook,Full HD,AMD Ryzen 7,4GB,SSD,NVIDIA GeForce GTX 1650,macOS,12,4.05,2793.5
+Apple,Business Laptop,4K,AMD Ryzen 5,4GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,14,4.14,1982.02
+Microsoft,Gaming,Full HD,Intel Xeon E3-1505M ,4GB,SSD,NVIDIA GeForce GTX 1650,macOS,14,4.12,1800.33
+Dell,Gaming,4K,AMD A9-Series 9420,4GB,SSHD,Intel Iris Xe Graphics,No OS,13,3.03,2551.64
+MSI,WorkStation,2K,Intel Celeron Dual Core 3855U ,16GB,SATA SSD,NVIDIA GeForce GTX 1650,macOS,14,2.41,2735.21
+MSI,Business Laptop,Full HD,Intel Pentium Quad Core N4200,4GB,eMMC,NVIDIA GeForce GTX 1650,Windows 10,11,2.2,3294.41
+MSI,Business Laptop,Full HD,Intel Celeron Dual Core 3855U ,16GB,eMMC,NVIDIA GeForce GTX 1650,Windows 11,17,3.73,2871.04
+Chuwi,2 in 1 Convertible,Full HD,Intel Core i5,12GB,SSD,AMD Radeon RX 5600M,macOS,14,4.61,2723.39
+Acer,Business Laptop,2K,Intel Core i5,12GB,SSHD,NVIDIA GeForce GTX 1650,Windows 11,18,2.46,1741.47
+Dell,Gaming,4K,Intel Atom x5-Z8550,4GB,SATA SSD,NVIDIA GeForce GTX 1650,Windows 11,13,4.58,3732.0
+Dell,2 in 1 Convertible,4K,Intel Atom x5-Z8550,12GB,HDD,Intel Iris Xe Graphics,Linux,13,3.76,2364.41
+Dell,2 in 1 Convertible,Full HD,AMD Ryzen 5,12GB,Flash Storage,AMD Radeon RX 5600M,No OS,17,2.45,3222.31
+hp,UltraBook,Full HD,AMD A9-Series 9420,4GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,12,4.63,2632.25
+hp,NoteBook,Full HD,Intel Xeon E3-1505M ,4GB,SATA SSD,AMD Radeon RX 5600M,Windows 11,16,3.02,3556.56
+Microsoft,Gaming,4K,Intel Celeron Dual Core 3855U ,8GB,HDD,NVIDIA GeForce GTX 1650,Windows 10,18,3.66,2976.49
+MSI,Gaming,4K,Intel Atom x5-Z8550,16GB,Flash Storage,Intel Iris Xe Graphics,Windows 10,11,2.96,3927.89
+Asus,Gaming,2K,Intel Xeon E3-1505M ,16GB,SATA SSD,AMD Radeon RX 5600M,Windows 11,12,3.15,3978.23
+MSI,Gaming,Full HD,Intel Core i9,8GB,HDD,NVIDIA GeForce GTX 1650,No OS,12,2.57,3224.26
+Apple,WorkStation,Full HD,Intel Celeron Dual Core 3855U ,16GB,SSD,NVIDIA GeForce GTX 1650,macOS,18,4.79,5059.54
+Acer,UltraBook,2K,AMD Ryzen 5,4GB,SSD,AMD Radeon RX 5600M,No OS,12,4.02,1970.05
+Asus,WorkStation,Full HD,AMD Ryzen 7,4GB,SSHD,Intel Iris Xe Graphics,Linux,14,4.0,2386.0
+Microsoft,2 in 1 Convertible,Full HD,Intel Xeon E3-1505M ,12GB,SATA SSD,Intel Iris Xe Graphics,macOS,18,4.26,3627.94
+Asus,UltraBook,Full HD,Intel Core i9,16GB,SSD,AMD Radeon RX 5600M,Linux,12,2.37,3335.68
+MSI,NoteBook,Full HD,Intel Pentium Quad Core N4200,8GB,SSD,Intel Iris Xe Graphics,Linux,15,3.51,3752.59
+Chuwi,NoteBook,4K,Intel Xeon E3-1505M ,8GB,HDD,NVIDIA GeForce GTX 1650,No OS,12,2.93,2225.04
+Asus,Gaming,4K,Intel Xeon E3-1505M ,4GB,eMMC,Intel Iris Xe Graphics,Windows 11,13,2.34,3880.48
+Apple,UltraBook,Full HD,Intel Atom x5-Z8550,16GB,SSD,Intel Iris Xe Graphics,Windows 10,13,4.03,2337.53
+lenevo,WorkStation,4K,AMD Ryzen 7,4GB,eMMC,NVIDIA GeForce GTX 1650,No OS,17,2.99,2698.75
+MSI,NoteBook,2K,AMD A9-Series 9420,16GB,SSD,Intel Iris Xe Graphics,Windows 11,17,4.51,3440.53
+Dell,2 in 1 Convertible,4K,Intel Core i5,16GB,HDD,NVIDIA GeForce GTX 1650,macOS,11,4.44,3508.53
+Asus,2 in 1 Convertible,Full HD,Intel Core i7,8GB,HDD,NVIDIA GeForce GTX 1650,Linux,18,2.77,2432.71
+Acer,2 in 1 Convertible,2K,Intel Core i5,12GB,HDD,Intel Iris Xe Graphics,Windows 10,16,4.28,1887.4
+hp,Gaming,2K,Intel Core i7,4GB,SSD,Intel Iris Xe Graphics,Windows 11,15,2.22,1766.9
+hp,2 in 1 Convertible,2K,Intel Atom x5-Z8550,16GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,16,2.33,2982.62
+Asus,Business Laptop,Full HD,Intel Core i5,4GB,eMMC,AMD Radeon RX 5600M,Windows 10,15,2.44,3202.64
+MSI,UltraBook,Full HD,Intel Celeron Dual Core 3855U ,8GB,eMMC,AMD Radeon RX 5600M,No OS,12,4.97,2978.01
+Microsoft,Business Laptop,Full HD,Intel Xeon E3-1505M ,8GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,17,3.69,2370.74
+Acer,UltraBook,Full HD,Intel Xeon E3-1505M ,16GB,eMMC,NVIDIA GeForce GTX 1650,macOS,14,2.96,3356.98
+Acer,Business Laptop,4K,AMD Ryzen 5,16GB,SSD,NVIDIA GeForce GTX 1650,No OS,15,4.85,3714.98
+Chuwi,WorkStation,Full HD,Intel Atom x5-Z8550,4GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,15,2.44,2596.85
+Asus,Gaming,Full HD,AMD Ryzen 5,16GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,14,4.04,3768.93
+Dell,UltraBook,2K,Intel Core i9,12GB,Flash Storage,AMD Radeon RX 5600M,Windows 10,18,4.63,3283.96
+MSI,NoteBook,Full HD,Intel Xeon E3-1505M ,12GB,SSD,Intel Iris Xe Graphics,macOS,13,2.49,2766.35
+Microsoft,Business Laptop,2K,AMD A9-Series 9420,12GB,SATA SSD,AMD Radeon RX 5600M,Windows 11,11,4.72,2185.67
+Apple,2 in 1 Convertible,4K,Intel Atom x5-Z8550,4GB,SSD,Intel Iris Xe Graphics,macOS,18,3.3,2348.21
+MSI,2 in 1 Convertible,Full HD,AMD Ryzen 7,4GB,SSD,AMD Radeon RX 5600M,No OS,14,3.03,2211.3
+Microsoft,UltraBook,Full HD,Intel Xeon E3-1505M ,16GB,Flash Storage,AMD Radeon RX 5600M,No OS,13,2.55,2005.17
+lenevo,NoteBook,4K,Intel Atom x5-Z8550,8GB,SSD,AMD Radeon RX 5600M,No OS,16,2.76,3137.31
+Acer,Business Laptop,2K,AMD Ryzen 5,4GB,HDD,AMD Radeon RX 5600M,No OS,18,3.39,2910.27
+Asus,WorkStation,4K,AMD Ryzen 7,8GB,HDD,NVIDIA GeForce GTX 1650,macOS,15,3.4,2164.56
+Chuwi,WorkStation,4K,Intel Celeron Dual Core 3855U ,16GB,SSD,Intel Iris Xe Graphics,Linux,16,4.88,3871.13
+Chuwi,WorkStation,Full HD,Intel Core i5,4GB,HDD,NVIDIA GeForce GTX 1650,Linux,13,2.78,3378.75
+Dell,Gaming,4K,Intel Pentium Quad Core N4200,4GB,SSD,AMD Radeon RX 5600M,No OS,12,2.92,1731.71
+Asus,Business Laptop,Full HD,Intel Core i5,16GB,HDD,AMD Radeon RX 5600M,Windows 10,17,2.43,1881.61
+Chuwi,WorkStation,Full HD,Intel Celeron Dual Core 3855U ,8GB,HDD,NVIDIA GeForce GTX 1650,macOS,17,4.72,2056.85
+Acer,Business Laptop,4K,AMD Ryzen 5,4GB,HDD,AMD Radeon RX 5600M,Windows 10,17,3.63,3583.23
+hp,NoteBook,4K,Intel Core i9,12GB,Fusion Drive,NVIDIA GeForce GTX 1650,Windows 11,16,2.92,4390.96
+lenevo,Business Laptop,Full HD,Intel Pentium Quad Core N4200,12GB,HDD,AMD Radeon RX 5600M,Windows 11,13,3.85,1874.45
+Chuwi,NoteBook,2K,Intel Pentium Quad Core N4200,8GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,16,3.69,1754.46
+lenevo,Business Laptop,2K,Intel Core i7,12GB,eMMC,NVIDIA GeForce GTX 1650,macOS,12,3.12,3349.1
+Dell,UltraBook,Full HD,Intel Xeon E3-1505M ,16GB,Flash Storage,AMD Radeon RX 5600M,Windows 11,16,2.81,2327.27
+lenevo,WorkStation,4K,Intel Core i7,8GB,eMMC,AMD Radeon RX 5600M,No OS,15,4.21,2049.91
+Dell,Business Laptop,4K,AMD Ryzen 5,8GB,HDD,Intel Iris Xe Graphics,Windows 10,16,2.25,4739.53
+lenevo,NoteBook,4K,Intel Xeon E3-1505M ,4GB,SSD,Intel Iris Xe Graphics,Linux,16,4.67,3392.15
+hp,Business Laptop,2K,Intel Core i5,4GB,SSD,AMD Radeon RX 5600M,macOS,14,4.3,3897.72
+Acer,2 in 1 Convertible,2K,Intel Pentium Quad Core N4200,12GB,SSD,AMD Radeon RX 5600M,Windows 10,12,3.53,3931.81
+Apple,NoteBook,4K,Intel Pentium Quad Core N4200,8GB,HDD,AMD Radeon RX 5600M,Windows 10,17,4.77,1753.0
+MSI,Business Laptop,Full HD,AMD Ryzen 5,8GB,HDD,AMD Radeon RX 5600M,Windows 10,16,2.59,3386.87
+lenevo,UltraBook,Full HD,Intel Atom x5-Z8550,8GB,HDD,Intel Iris Xe Graphics,Windows 11,16,2.32,1962.48
+Dell,Business Laptop,4K,Intel Core i7,8GB,SATA SSD,Intel Iris Xe Graphics,Windows 11,12,3.22,5064.39
+MSI,Gaming,4K,Intel Core i5,8GB,HDD,NVIDIA GeForce GTX 1650,Windows 10,14,4.59,2210.82
+Acer,UltraBook,Full HD,AMD A9-Series 9420,16GB,SSD,AMD Radeon RX 5600M,macOS,12,3.79,1835.63
+lenevo,Business Laptop,Full HD,Intel Atom x5-Z8550,12GB,HDD,Intel Iris Xe Graphics,Windows 10,16,2.95,3176.56
+Apple,WorkStation,4K,Intel Xeon E3-1505M ,4GB,SSD,AMD Radeon RX 5600M,macOS,13,2.16,2324.39
+MSI,Gaming,Full HD,AMD A9-Series 9420,8GB,SSD,Intel Iris Xe Graphics,Windows 10,16,4.78,2590.66
+Apple,Gaming,Full HD,AMD Ryzen 5,8GB,eMMC,NVIDIA GeForce GTX 1650,Windows 11,16,3.11,2153.47
+Microsoft,UltraBook,4K,Intel Pentium Quad Core N4200,4GB,HDD,NVIDIA GeForce GTX 1650,No OS,14,3.96,2136.39
+Acer,2 in 1 Convertible,Full HD,AMD Ryzen 5,12GB,HDD,Intel Iris Xe Graphics,Windows 11,11,3.34,3745.62
+Apple,UltraBook,4K,Intel Core i7,12GB,SATA SSD,AMD Radeon RX 5600M,macOS,17,4.02,2775.17
+Microsoft,2 in 1 Convertible,Full HD,Intel Atom x5-Z8550,12GB,SSD,AMD Radeon RX 5600M,Windows 11,13,2.54,3895.51
+Acer,Business Laptop,2K,Intel Xeon E3-1505M ,12GB,HDD,NVIDIA GeForce GTX 1650,Windows 10,14,2.34,3397.52
+Apple,Business Laptop,4K,Intel Atom x5-Z8550,4GB,HDD,NVIDIA GeForce GTX 1650,Windows 10,17,4.62,3359.46
+Acer,UltraBook,Full HD,Intel Core i9,12GB,HDD,Intel Iris Xe Graphics,macOS,17,3.17,3587.2
+MSI,2 in 1 Convertible,Full HD,Intel Core i7,16GB,eMMC,AMD Radeon RX 5600M,Windows 10,17,3.64,2402.44
+Acer,WorkStation,2K,AMD Ryzen 5,8GB,SSD,Intel Iris Xe Graphics,macOS,15,4.65,3718.17
+Apple,2 in 1 Convertible,4K,Intel Celeron Dual Core 3855U ,12GB,Fusion Drive,NVIDIA GeForce GTX 1650,macOS,17,2.56,3270.71
+Asus,2 in 1 Convertible,4K,AMD Ryzen 5,12GB,SSD,NVIDIA GeForce GTX 1650,macOS,17,4.23,2386.16
+hp,Business Laptop,Full HD,Intel Atom x5-Z8550,8GB,Fusion Drive,AMD Radeon RX 5600M,Windows 10,12,3.84,1875.88
+Dell,Business Laptop,Full HD,AMD Ryzen 7,4GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,13,4.13,2129.08
+hp,NoteBook,4K,Intel Celeron Dual Core 3855U ,12GB,SSD,AMD Radeon RX 5600M,Linux,12,2.06,3969.86
+Dell,WorkStation,2K,Intel Core i9,4GB,SSHD,AMD Radeon RX 5600M,Windows 10,13,4.36,2300.53
+hp,UltraBook,4K,AMD Ryzen 5,16GB,HDD,AMD Radeon RX 5600M,Windows 10,15,2.8,3307.33
+MSI,UltraBook,Full HD,Intel Core i7,4GB,SATA SSD,AMD Radeon RX 5600M,No OS,14,2.25,2420.08
+Dell,UltraBook,4K,AMD A9-Series 9420,12GB,Fusion Drive,AMD Radeon RX 5600M,Windows 10,16,4.28,2944.81
+lenevo,NoteBook,2K,Intel Core i9,4GB,SSD,AMD Radeon RX 5600M,macOS,15,3.97,2327.65
+hp,Gaming,2K,Intel Xeon E3-1505M ,8GB,SSHD,Intel Iris Xe Graphics,Windows 10,13,2.38,3196.42
+Apple,Business Laptop,2K,Intel Core i9,12GB,HDD,AMD Radeon RX 5600M,Windows 10,11,3.91,2411.83
+MSI,Business Laptop,Full HD,Intel Pentium Quad Core N4200,4GB,HDD,AMD Radeon RX 5600M,No OS,12,4.22,1923.87
+Asus,Business Laptop,4K,Intel Xeon E3-1505M ,8GB,eMMC,AMD Radeon RX 5600M,macOS,16,2.32,2799.6
+MSI,WorkStation,Full HD,AMD Ryzen 5,4GB,Flash Storage,AMD Radeon RX 5600M,Windows 11,13,4.74,1813.57
+Chuwi,NoteBook,Full HD,Intel Xeon E3-1505M ,8GB,HDD,Intel Iris Xe Graphics,Linux,11,4.26,3206.01
+Asus,Gaming,4K,AMD A9-Series 9420,16GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,16,2.46,3444.91
+Asus,UltraBook,Full HD,Intel Xeon E3-1505M ,4GB,SSD,Intel Iris Xe Graphics,Windows 11,14,3.32,3128.08
+Chuwi,Business Laptop,2K,Intel Core i5,4GB,HDD,AMD Radeon RX 5600M,Windows 10,12,4.21,2405.83
+MSI,2 in 1 Convertible,4K,AMD Ryzen 5,4GB,SSD,NVIDIA GeForce GTX 1650,macOS,14,2.99,2413.21
+Acer,2 in 1 Convertible,Full HD,AMD Ryzen 7,8GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,17,2.0,2132.1
+Apple,NoteBook,Full HD,AMD Ryzen 5,4GB,SSD,AMD Radeon RX 5600M,Windows 11,12,4.48,2138.91
+Dell,WorkStation,2K,Intel Core i5,12GB,SSD,NVIDIA GeForce GTX 1650,No OS,12,3.15,2792.55
+Apple,UltraBook,Full HD,AMD A9-Series 9420,8GB,SSHD,AMD Radeon RX 5600M,No OS,15,4.55,3042.16
+Chuwi,NoteBook,4K,Intel Core i5,8GB,HDD,Intel Iris Xe Graphics,Windows 11,12,2.45,2391.18
+Dell,Business Laptop,Full HD,AMD A9-Series 9420,12GB,eMMC,Intel Iris Xe Graphics,Windows 11,14,4.01,2323.75
+Dell,WorkStation,Full HD,Intel Xeon E3-1505M ,12GB,HDD,Intel Iris Xe Graphics,No OS,17,3.97,1871.28
+Apple,WorkStation,Full HD,AMD Ryzen 7,12GB,SSD,AMD Radeon RX 5600M,Linux,11,3.61,2277.12
+hp,2 in 1 Convertible,Full HD,Intel Atom x5-Z8550,4GB,HDD,AMD Radeon RX 5600M,Windows 10,14,4.29,2899.69
+lenevo,WorkStation,4K,Intel Celeron Dual Core 3855U ,16GB,SSD,AMD Radeon RX 5600M,Linux,15,2.27,3536.84
+Dell,Gaming,Full HD,Intel Pentium Quad Core N4200,8GB,eMMC,NVIDIA GeForce GTX 1650,Windows 10,14,4.85,5575.19
+Asus,2 in 1 Convertible,4K,Intel Core i9,4GB,SSD,AMD Radeon RX 5600M,macOS,12,4.71,3813.98
+MSI,UltraBook,Full HD,Intel Core i5,4GB,HDD,Intel Iris Xe Graphics,No OS,18,4.63,3492.07
+MSI,WorkStation,Full HD,Intel Atom x5-Z8550,16GB,HDD,NVIDIA GeForce GTX 1650,No OS,13,2.35,2591.66
+hp,UltraBook,Full HD,AMD A9-Series 9420,12GB,HDD,Intel Iris Xe Graphics,Linux,12,2.74,4541.21
+Acer,2 in 1 Convertible,2K,Intel Celeron Dual Core 3855U ,4GB,HDD,AMD Radeon RX 5600M,macOS,11,2.26,3736.64
+Asus,WorkStation,Full HD,AMD A9-Series 9420,8GB,HDD,Intel Iris Xe Graphics,Windows 10,11,2.34,2943.49
+hp,Gaming,Full HD,Intel Xeon E3-1505M ,8GB,SSD,AMD Radeon RX 5600M,Linux,17,3.03,2168.48
+Chuwi,UltraBook,Full HD,Intel Celeron Dual Core 3855U ,16GB,HDD,NVIDIA GeForce GTX 1650,macOS,16,2.94,3270.48
+Acer,2 in 1 Convertible,Full HD,Intel Atom x5-Z8550,4GB,SSD,NVIDIA GeForce GTX 1650,No OS,16,3.49,3693.87
+Microsoft,Gaming,Full HD,Intel Xeon E3-1505M ,16GB,SSD,AMD Radeon RX 5600M,Windows 11,13,2.38,3722.87
+hp,Business Laptop,Full HD,Intel Core i9,12GB,eMMC,AMD Radeon RX 5600M,Windows 11,13,2.36,3609.29
+Chuwi,UltraBook,4K,AMD Ryzen 5,12GB,HDD,AMD Radeon RX 5600M,macOS,13,4.85,3717.95
+Acer,UltraBook,Full HD,Intel Xeon E3-1505M ,8GB,SSD,NVIDIA GeForce GTX 1650,No OS,15,2.65,1983.6
+hp,NoteBook,Full HD,Intel Core i7,8GB,SSHD,Intel Iris Xe Graphics,No OS,11,3.85,2820.96
+Chuwi,UltraBook,Full HD,Intel Xeon E3-1505M ,12GB,SSD,AMD Radeon RX 5600M,macOS,14,4.34,1718.13
+lenevo,WorkStation,Full HD,Intel Celeron Dual Core 3855U ,16GB,eMMC,AMD Radeon RX 5600M,macOS,12,2.47,2866.77
+lenevo,Gaming,Full HD,AMD Ryzen 5,16GB,SSD,Intel Iris Xe Graphics,Windows 10,16,3.63,2774.07
+lenevo,2 in 1 Convertible,Full HD,AMD A9-Series 9420,8GB,Flash Storage,AMD Radeon RX 5600M,No OS,15,2.47,2321.84
+MSI,Gaming,Full HD,AMD A9-Series 9420,12GB,SSD,AMD Radeon RX 5600M,No OS,11,3.54,3333.46
+lenevo,UltraBook,Full HD,Intel Celeron Dual Core 3855U ,4GB,HDD,NVIDIA GeForce GTX 1650,No OS,16,2.3,2748.88
+lenevo,WorkStation,Full HD,AMD Ryzen 5,8GB,eMMC,Intel Iris Xe Graphics,Linux,15,4.91,3675.12
+Microsoft,Gaming,Full HD,Intel Core i9,8GB,SSHD,Intel Iris Xe Graphics,macOS,18,2.07,3736.62
+lenevo,WorkStation,4K,AMD A9-Series 9420,16GB,SATA SSD,AMD Radeon RX 5600M,Linux,12,3.38,2964.4
+Acer,NoteBook,Full HD,Intel Core i7,8GB,SSD,AMD Radeon RX 5600M,Windows 10,13,4.7,2444.97
+Chuwi,Business Laptop,2K,Intel Core i7,8GB,SSD,NVIDIA GeForce GTX 1650,No OS,18,4.2,3602.5
+MSI,Business Laptop,2K,Intel Pentium Quad Core N4200,12GB,HDD,AMD Radeon RX 5600M,macOS,16,3.01,2445.59
+Apple,UltraBook,4K,Intel Core i7,12GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,13,2.57,2135.54
+Apple,WorkStation,Full HD,Intel Xeon E3-1505M ,16GB,eMMC,Intel Iris Xe Graphics,No OS,13,3.42,2741.92
+Acer,2 in 1 Convertible,Full HD,AMD Ryzen 7,4GB,SSD,NVIDIA GeForce GTX 1650,No OS,17,4.29,3676.67
+Acer,2 in 1 Convertible,2K,Intel Xeon E3-1505M ,16GB,HDD,NVIDIA GeForce GTX 1650,macOS,12,4.89,2260.44
+hp,Business Laptop,4K,Intel Celeron Dual Core 3855U ,8GB,HDD,NVIDIA GeForce GTX 1650,Windows 10,14,2.14,2096.86
+hp,UltraBook,Full HD,AMD Ryzen 5,12GB,Fusion Drive,NVIDIA GeForce GTX 1650,Windows 11,18,2.79,3717.1
+Acer,NoteBook,Full HD,AMD Ryzen 7,4GB,SSD,Intel Iris Xe Graphics,No OS,16,3.77,2095.73
+hp,WorkStation,Full HD,Intel Core i7,8GB,HDD,Intel Iris Xe Graphics,No OS,11,3.33,3208.34
+Microsoft,UltraBook,2K,Intel Xeon E3-1505M ,4GB,SSD,AMD Radeon RX 5600M,Linux,18,3.54,1901.57
+lenevo,NoteBook,4K,AMD Ryzen 5,16GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,12,3.79,2630.63
+Asus,2 in 1 Convertible,Full HD,Intel Core i9,8GB,HDD,AMD Radeon RX 5600M,No OS,16,2.88,3293.11
+MSI,NoteBook,4K,Intel Core i9,16GB,HDD,Intel Iris Xe Graphics,macOS,16,3.93,2791.57
+Dell,NoteBook,4K,AMD A9-Series 9420,16GB,eMMC,NVIDIA GeForce GTX 1650,Windows 11,18,2.4,2819.86
+lenevo,UltraBook,Full HD,Intel Pentium Quad Core N4200,4GB,Fusion Drive,Intel Iris Xe Graphics,No OS,17,4.42,2513.81
+hp,Business Laptop,2K,Intel Pentium Quad Core N4200,12GB,Flash Storage,Intel Iris Xe Graphics,Linux,16,4.91,3973.55
+lenevo,WorkStation,4K,Intel Xeon E3-1505M ,8GB,HDD,NVIDIA GeForce GTX 1650,No OS,15,3.96,1856.81
+hp,UltraBook,2K,Intel Core i7,16GB,SSHD,Intel Iris Xe Graphics,Windows 10,16,4.75,3090.4
+lenevo,UltraBook,Full HD,Intel Celeron Dual Core 3855U ,12GB,eMMC,AMD Radeon RX 5600M,No OS,18,2.39,3945.29
+lenevo,NoteBook,Full HD,Intel Core i9,12GB,eMMC,NVIDIA GeForce GTX 1650,macOS,15,4.72,3889.11
+Microsoft,Gaming,Full HD,AMD Ryzen 7,16GB,SATA SSD,NVIDIA GeForce GTX 1650,Windows 11,13,2.61,2791.73
+Asus,Business Laptop,4K,Intel Core i9,8GB,SSD,AMD Radeon RX 5600M,Windows 10,15,4.47,2139.95
+Acer,UltraBook,Full HD,Intel Core i7,16GB,HDD,NVIDIA GeForce GTX 1650,Windows 10,18,2.61,3497.14
+hp,2 in 1 Convertible,4K,Intel Xeon E3-1505M ,12GB,SSD,AMD Radeon RX 5600M,Linux,13,3.28,3569.3
+Chuwi,2 in 1 Convertible,Full HD,AMD Ryzen 5,4GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,17,4.95,3103.49
+Acer,WorkStation,Full HD,Intel Atom x5-Z8550,4GB,HDD,NVIDIA GeForce GTX 1650,Linux,11,2.25,3353.73
+Apple,Gaming,2K,AMD Ryzen 5,16GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,17,2.75,3049.38
+lenevo,Business Laptop,4K,Intel Pentium Quad Core N4200,12GB,Flash Storage,NVIDIA GeForce GTX 1650,No OS,14,2.42,1968.92
+Microsoft,Gaming,2K,AMD Ryzen 5,12GB,HDD,NVIDIA GeForce GTX 1650,Linux,12,2.77,1849.64
+Microsoft,2 in 1 Convertible,2K,Intel Core i7,8GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,15,4.63,3795.81
+Microsoft,Gaming,Full HD,AMD Ryzen 7,8GB,HDD,AMD Radeon RX 5600M,No OS,13,4.53,1898.22
+lenevo,Gaming,Full HD,Intel Atom x5-Z8550,8GB,eMMC,Intel Iris Xe Graphics,Linux,13,4.87,2118.93
+Apple,UltraBook,4K,Intel Pentium Quad Core N4200,12GB,HDD,Intel Iris Xe Graphics,macOS,17,2.88,3172.33
+Acer,UltraBook,2K,Intel Core i5,12GB,HDD,NVIDIA GeForce GTX 1650,Windows 10,13,2.11,2136.62
+Dell,2 in 1 Convertible,2K,Intel Xeon E3-1505M ,4GB,SSD,NVIDIA GeForce GTX 1650,Linux,16,3.6,3792.3
+Microsoft,Business Laptop,4K,Intel Atom x5-Z8550,12GB,SSD,Intel Iris Xe Graphics,No OS,17,3.95,2552.07
+lenevo,UltraBook,Full HD,Intel Xeon E3-1505M ,4GB,SSD,AMD Radeon RX 5600M,Windows 10,15,4.7,3087.98
+hp,UltraBook,Full HD,Intel Celeron Dual Core 3855U ,8GB,HDD,AMD Radeon RX 5600M,Windows 11,14,3.23,3982.07
+lenevo,UltraBook,Full HD,Intel Core i9,16GB,HDD,NVIDIA GeForce GTX 1650,Linux,14,4.4,2748.66
+MSI,NoteBook,Full HD,Intel Core i5,8GB,SSD,AMD Radeon RX 5600M,Windows 11,12,4.02,1735.63
+Microsoft,Gaming,4K,Intel Pentium Quad Core N4200,12GB,eMMC,AMD Radeon RX 5600M,No OS,15,4.59,3139.12
+Acer,Gaming,Full HD,AMD A9-Series 9420,16GB,HDD,Intel Iris Xe Graphics,Linux,17,2.7,3637.3
+Dell,UltraBook,4K,Intel Celeron Dual Core 3855U ,8GB,SSD,AMD Radeon RX 5600M,Linux,16,4.34,4168.53
+lenevo,UltraBook,2K,AMD Ryzen 7,12GB,SSD,Intel Iris Xe Graphics,Windows 11,15,4.57,1782.64
+Acer,NoteBook,4K,AMD A9-Series 9420,12GB,HDD,AMD Radeon RX 5600M,Windows 11,11,4.38,2663.41
+hp,Gaming,Full HD,Intel Atom x5-Z8550,8GB,HDD,Intel Iris Xe Graphics,Windows 10,14,4.35,3194.0
+Apple,2 in 1 Convertible,Full HD,Intel Core i5,16GB,SSD,NVIDIA GeForce GTX 1650,No OS,15,3.45,3578.85
+Chuwi,UltraBook,Full HD,Intel Atom x5-Z8550,12GB,HDD,AMD Radeon RX 5600M,No OS,15,4.22,2324.62
+Acer,NoteBook,2K,Intel Core i5,16GB,SATA SSD,Intel Iris Xe Graphics,No OS,13,4.84,3078.29
+Apple,Business Laptop,Full HD,Intel Atom x5-Z8550,12GB,SSHD,Intel Iris Xe Graphics,macOS,16,3.62,3404.65
+Chuwi,WorkStation,Full HD,Intel Core i7,4GB,SSD,Intel Iris Xe Graphics,Linux,15,3.27,3366.78
+lenevo,2 in 1 Convertible,4K,Intel Core i9,16GB,HDD,NVIDIA GeForce GTX 1650,No OS,17,4.55,2060.35
+lenevo,WorkStation,Full HD,Intel Core i7,8GB,Fusion Drive,NVIDIA GeForce GTX 1650,Windows 11,15,3.28,3025.93
+lenevo,WorkStation,2K,Intel Celeron Dual Core 3855U ,4GB,HDD,NVIDIA GeForce GTX 1650,macOS,13,4.61,1956.35
+Chuwi,Business Laptop,Full HD,Intel Xeon E3-1505M ,12GB,SSHD,NVIDIA GeForce GTX 1650,macOS,15,2.9,2268.49
+hp,WorkStation,Full HD,Intel Core i7,12GB,SSD,Intel Iris Xe Graphics,macOS,17,2.64,3795.91
+Microsoft,Gaming,4K,Intel Celeron Dual Core 3855U ,12GB,SATA SSD,NVIDIA GeForce GTX 1650,Linux,13,2.72,1854.72
+MSI,WorkStation,2K,Intel Core i5,4GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,15,2.05,1820.08
+Acer,NoteBook,Full HD,Intel Core i7,4GB,SATA SSD,NVIDIA GeForce GTX 1650,macOS,18,4.69,3066.17
+MSI,WorkStation,Full HD,Intel Core i9,16GB,SSD,NVIDIA GeForce GTX 1650,macOS,13,2.83,3174.25
+Asus,UltraBook,Full HD,AMD Ryzen 5,16GB,HDD,Intel Iris Xe Graphics,No OS,12,2.67,3079.3
+MSI,Business Laptop,Full HD,AMD A9-Series 9420,16GB,HDD,NVIDIA GeForce GTX 1650,Linux,13,2.65,3956.55
+Apple,NoteBook,4K,Intel Core i9,12GB,SSD,AMD Radeon RX 5600M,Linux,16,3.44,3580.26
+Apple,Gaming,4K,Intel Xeon E3-1505M ,8GB,eMMC,AMD Radeon RX 5600M,No OS,15,4.19,1761.0
+Chuwi,Business Laptop,4K,Intel Core i5,8GB,SSD,Intel Iris Xe Graphics,No OS,17,3.53,2634.87
+Asus,UltraBook,4K,Intel Atom x5-Z8550,16GB,HDD,NVIDIA GeForce GTX 1650,Linux,15,2.25,3813.44
+Microsoft,2 in 1 Convertible,Full HD,AMD Ryzen 7,16GB,SSD,Intel Iris Xe Graphics,Windows 11,15,3.24,3212.71
+Acer,WorkStation,Full HD,Intel Atom x5-Z8550,16GB,eMMC,AMD Radeon RX 5600M,No OS,14,4.89,2564.81
+MSI,UltraBook,Full HD,Intel Core i9,16GB,SSHD,NVIDIA GeForce GTX 1650,Windows 11,12,2.12,2355.93
+Apple,2 in 1 Convertible,4K,Intel Pentium Quad Core N4200,4GB,HDD,AMD Radeon RX 5600M,No OS,14,4.0,3780.73
+Asus,UltraBook,Full HD,Intel Pentium Quad Core N4200,4GB,HDD,AMD Radeon RX 5600M,macOS,18,2.22,1735.64
+Chuwi,NoteBook,4K,Intel Atom x5-Z8550,12GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,16,3.98,2598.51
+Microsoft,Business Laptop,Full HD,Intel Core i7,4GB,SSD,Intel Iris Xe Graphics,No OS,13,3.41,2857.51
+Acer,WorkStation,4K,Intel Pentium Quad Core N4200,12GB,eMMC,AMD Radeon RX 5600M,Linux,11,3.62,3606.08
+Chuwi,UltraBook,Full HD,Intel Pentium Quad Core N4200,4GB,SATA SSD,AMD Radeon RX 5600M,Linux,12,2.15,3651.39
+Microsoft,UltraBook,Full HD,Intel Core i9,16GB,SSD,Intel Iris Xe Graphics,Windows 10,15,3.95,2608.72
+lenevo,NoteBook,2K,Intel Pentium Quad Core N4200,12GB,eMMC,Intel Iris Xe Graphics,Windows 10,13,4.55,1718.45
+Microsoft,UltraBook,Full HD,Intel Xeon E3-1505M ,12GB,HDD,NVIDIA GeForce GTX 1650,macOS,17,2.95,1795.2
+Asus,Gaming,Full HD,Intel Core i5,16GB,HDD,AMD Radeon RX 5600M,macOS,15,3.0,3327.96
+Apple,2 in 1 Convertible,2K,Intel Core i9,8GB,Fusion Drive,NVIDIA GeForce GTX 1650,Windows 10,16,4.52,3334.58
+Microsoft,NoteBook,2K,AMD A9-Series 9420,8GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,14,3.8,2872.08
+lenevo,WorkStation,4K,Intel Core i9,16GB,SSD,Intel Iris Xe Graphics,Windows 11,16,2.74,3261.89
+Apple,UltraBook,Full HD,Intel Atom x5-Z8550,8GB,HDD,NVIDIA GeForce GTX 1650,Windows 10,13,3.81,2031.56
+Dell,Business Laptop,Full HD,Intel Pentium Quad Core N4200,12GB,HDD,AMD Radeon RX 5600M,No OS,12,2.05,2367.9
+lenevo,2 in 1 Convertible,4K,Intel Celeron Dual Core 3855U ,16GB,SSD,AMD Radeon RX 5600M,No OS,16,4.65,3322.87
+Apple,Business Laptop,4K,Intel Atom x5-Z8550,12GB,eMMC,Intel Iris Xe Graphics,Linux,17,3.14,3830.13
+MSI,WorkStation,Full HD,Intel Pentium Quad Core N4200,16GB,eMMC,NVIDIA GeForce GTX 1650,macOS,11,4.77,2920.41
+Microsoft,NoteBook,2K,Intel Core i9,8GB,Flash Storage,NVIDIA GeForce GTX 1650,Windows 10,17,3.07,2372.74
+Apple,Gaming,Full HD,Intel Atom x5-Z8550,12GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,14,4.44,3617.23
+Chuwi,2 in 1 Convertible,4K,AMD A9-Series 9420,12GB,SSD,Intel Iris Xe Graphics,Linux,17,4.1,3340.84
+MSI,Business Laptop,Full HD,Intel Core i9,16GB,Flash Storage,NVIDIA GeForce GTX 1650,Linux,13,2.05,3243.71
+hp,NoteBook,2K,Intel Xeon E3-1505M ,12GB,Flash Storage,Intel Iris Xe Graphics,macOS,13,2.76,4358.91
+lenevo,NoteBook,4K,Intel Atom x5-Z8550,4GB,SSD,AMD Radeon RX 5600M,Windows 11,16,2.72,2829.29
+Dell,WorkStation,Full HD,AMD Ryzen 7,16GB,HDD,AMD Radeon RX 5600M,macOS,17,4.33,3111.49
+lenevo,2 in 1 Convertible,4K,Intel Core i7,4GB,SSD,AMD Radeon RX 5600M,Linux,18,4.19,3265.57
+Chuwi,NoteBook,2K,Intel Atom x5-Z8550,12GB,HDD,NVIDIA GeForce GTX 1650,macOS,13,4.52,2144.83
+Dell,NoteBook,2K,AMD Ryzen 7,12GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,16,3.45,1963.09
+MSI,WorkStation,2K,Intel Xeon E3-1505M ,16GB,SATA SSD,NVIDIA GeForce GTX 1650,No OS,11,2.2,2419.74
+Acer,Gaming,Full HD,Intel Atom x5-Z8550,16GB,HDD,NVIDIA GeForce GTX 1650,No OS,11,4.41,2838.45
+Chuwi,UltraBook,4K,AMD Ryzen 5,8GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,17,3.6,2292.19
+Asus,Business Laptop,4K,AMD A9-Series 9420,12GB,SSD,AMD Radeon RX 5600M,Windows 10,11,3.58,3607.23
+Apple,Gaming,Full HD,Intel Xeon E3-1505M ,8GB,HDD,NVIDIA GeForce GTX 1650,Windows 10,16,4.34,1761.13
+lenevo,WorkStation,Full HD,Intel Pentium Quad Core N4200,8GB,SSD,Intel Iris Xe Graphics,Windows 10,18,3.21,2953.65
+MSI,Gaming,4K,Intel Core i5,16GB,SSD,Intel Iris Xe Graphics,Windows 10,12,3.13,3880.16
+Asus,NoteBook,4K,Intel Core i5,4GB,HDD,AMD Radeon RX 5600M,macOS,14,3.69,2785.83
+Chuwi,WorkStation,4K,AMD A9-Series 9420,4GB,SSD,Intel Iris Xe Graphics,No OS,14,3.52,3671.99
+lenevo,Business Laptop,Full HD,Intel Core i9,4GB,HDD,AMD Radeon RX 5600M,Windows 10,14,4.11,2344.14
+MSI,NoteBook,4K,AMD Ryzen 7,4GB,Fusion Drive,NVIDIA GeForce GTX 1650,No OS,16,2.53,2317.47
+Asus,NoteBook,Full HD,Intel Xeon E3-1505M ,16GB,HDD,NVIDIA GeForce GTX 1650,No OS,17,2.61,3201.99
+MSI,2 in 1 Convertible,4K,Intel Atom x5-Z8550,16GB,SSHD,NVIDIA GeForce GTX 1650,Linux,12,4.54,2320.39
+Apple,UltraBook,4K,AMD A9-Series 9420,8GB,SSD,AMD Radeon RX 5600M,Windows 11,15,3.6,3076.81
+Asus,Business Laptop,4K,Intel Core i5,4GB,Fusion Drive,Intel Iris Xe Graphics,No OS,12,3.69,1810.2
+MSI,WorkStation,Full HD,Intel Atom x5-Z8550,4GB,SSD,Intel Iris Xe Graphics,Linux,13,2.64,3962.59
+Microsoft,UltraBook,4K,Intel Pentium Quad Core N4200,12GB,SSHD,NVIDIA GeForce GTX 1650,macOS,13,4.51,1887.8
+Apple,WorkStation,Full HD,Intel Celeron Dual Core 3855U ,4GB,SSHD,AMD Radeon RX 5600M,Linux,15,3.62,1992.3
+hp,WorkStation,Full HD,Intel Core i5,8GB,SSD,Intel Iris Xe Graphics,No OS,12,3.94,3857.28
+Microsoft,Business Laptop,Full HD,AMD Ryzen 7,8GB,HDD,Intel Iris Xe Graphics,Linux,16,4.97,1743.65
+Asus,UltraBook,2K,Intel Core i9,8GB,SSHD,Intel Iris Xe Graphics,No OS,12,2.24,3488.35
+Acer,NoteBook,Full HD,Intel Pentium Quad Core N4200,16GB,eMMC,Intel Iris Xe Graphics,Windows 11,14,4.58,2624.69
+Asus,Gaming,Full HD,Intel Core i9,12GB,HDD,Intel Iris Xe Graphics,Linux,13,4.35,2576.03
+Microsoft,NoteBook,Full HD,AMD Ryzen 7,12GB,HDD,Intel Iris Xe Graphics,macOS,16,4.81,2709.32
+Microsoft,UltraBook,Full HD,Intel Atom x5-Z8550,4GB,SSD,NVIDIA GeForce GTX 1650,macOS,14,3.53,3864.26
+Acer,WorkStation,Full HD,Intel Pentium Quad Core N4200,12GB,SSD,AMD Radeon RX 5600M,Linux,16,2.08,2269.31
+Microsoft,Gaming,2K,Intel Core i5,16GB,Fusion Drive,AMD Radeon RX 5600M,Windows 10,18,3.83,2298.94
+Dell,NoteBook,2K,AMD Ryzen 5,12GB,eMMC,Intel Iris Xe Graphics,Windows 10,15,3.58,2621.1
+hp,Gaming,4K,Intel Pentium Quad Core N4200,12GB,SSD,NVIDIA GeForce GTX 1650,macOS,15,4.47,4288.85
+Asus,2 in 1 Convertible,2K,AMD Ryzen 7,4GB,SSD,Intel Iris Xe Graphics,macOS,13,2.92,2709.02
+Dell,Business Laptop,Full HD,AMD A9-Series 9420,12GB,HDD,NVIDIA GeForce GTX 1650,macOS,16,2.62,3803.33
+Chuwi,2 in 1 Convertible,4K,Intel Xeon E3-1505M ,8GB,SSD,AMD Radeon RX 5600M,Windows 10,16,3.25,1911.53
+lenevo,WorkStation,Full HD,AMD Ryzen 7,4GB,SSHD,NVIDIA GeForce GTX 1650,macOS,16,2.62,1770.31
+MSI,Business Laptop,Full HD,AMD Ryzen 5,12GB,Fusion Drive,AMD Radeon RX 5600M,No OS,11,3.98,1781.74
+Asus,Gaming,4K,Intel Celeron Dual Core 3855U ,16GB,SSD,Intel Iris Xe Graphics,macOS,17,2.76,2120.22
+Chuwi,WorkStation,Full HD,Intel Core i5,4GB,SSD,AMD Radeon RX 5600M,No OS,12,2.53,2252.16
+lenevo,2 in 1 Convertible,Full HD,AMD A9-Series 9420,12GB,SSD,Intel Iris Xe Graphics,macOS,14,3.01,2801.45
+lenevo,2 in 1 Convertible,2K,Intel Pentium Quad Core N4200,16GB,HDD,Intel Iris Xe Graphics,Linux,12,4.93,3286.79
+MSI,Business Laptop,4K,AMD Ryzen 7,16GB,SSD,Intel Iris Xe Graphics,No OS,12,2.69,2896.35
+Microsoft,2 in 1 Convertible,Full HD,AMD A9-Series 9420,8GB,SSD,Intel Iris Xe Graphics,No OS,18,3.31,2343.51
+lenevo,UltraBook,4K,Intel Pentium Quad Core N4200,8GB,SSD,NVIDIA GeForce GTX 1650,Linux,11,2.74,2491.86
+Asus,UltraBook,4K,Intel Core i9,12GB,SSD,AMD Radeon RX 5600M,macOS,11,4.23,2133.69
+Dell,2 in 1 Convertible,Full HD,Intel Celeron Dual Core 3855U ,16GB,SSD,AMD Radeon RX 5600M,Windows 11,13,3.39,2529.35
+Chuwi,Business Laptop,Full HD,Intel Pentium Quad Core N4200,8GB,HDD,NVIDIA GeForce GTX 1650,No OS,12,2.76,3359.17
+Apple,Business Laptop,Full HD,AMD A9-Series 9420,8GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,18,4.08,3302.47
+Chuwi,UltraBook,4K,Intel Pentium Quad Core N4200,4GB,SSHD,Intel Iris Xe Graphics,Windows 10,13,4.75,2897.56
+Microsoft,WorkStation,Full HD,Intel Core i5,16GB,eMMC,AMD Radeon RX 5600M,No OS,11,4.16,3217.56
+Chuwi,Business Laptop,2K,AMD Ryzen 7,16GB,SSD,AMD Radeon RX 5600M,No OS,15,2.98,1857.11
+Dell,WorkStation,4K,Intel Core i7,16GB,HDD,NVIDIA GeForce GTX 1650,No OS,15,3.62,2021.94
+MSI,Business Laptop,Full HD,Intel Xeon E3-1505M ,12GB,SSHD,Intel Iris Xe Graphics,Windows 10,16,3.79,3966.79
+Chuwi,2 in 1 Convertible,4K,AMD A9-Series 9420,8GB,eMMC,NVIDIA GeForce GTX 1650,No OS,15,2.6,2681.68
+Chuwi,2 in 1 Convertible,Full HD,Intel Celeron Dual Core 3855U ,8GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,12,2.61,3304.97
+MSI,2 in 1 Convertible,Full HD,Intel Celeron Dual Core 3855U ,8GB,SSD,NVIDIA GeForce GTX 1650,Linux,15,2.14,1782.56
+Chuwi,Gaming,Full HD,Intel Core i7,12GB,eMMC,NVIDIA GeForce GTX 1650,No OS,16,3.81,3629.85
+Microsoft,Gaming,Full HD,Intel Celeron Dual Core 3855U ,4GB,HDD,Intel Iris Xe Graphics,No OS,17,2.44,2599.23
+MSI,NoteBook,4K,AMD A9-Series 9420,4GB,SSD,AMD Radeon RX 5600M,Windows 11,15,3.33,3084.85
+Microsoft,Business Laptop,4K,AMD Ryzen 7,12GB,Flash Storage,AMD Radeon RX 5600M,Windows 11,12,3.09,1871.22
+Chuwi,UltraBook,2K,AMD A9-Series 9420,8GB,Fusion Drive,Intel Iris Xe Graphics,Windows 11,17,4.93,2981.2
+MSI,Gaming,Full HD,Intel Pentium Quad Core N4200,12GB,HDD,AMD Radeon RX 5600M,Linux,17,4.16,1810.94
+Acer,Business Laptop,4K,AMD A9-Series 9420,16GB,HDD,Intel Iris Xe Graphics,Linux,18,3.38,1838.86
+Microsoft,Gaming,Full HD,Intel Pentium Quad Core N4200,4GB,SSHD,AMD Radeon RX 5600M,No OS,12,4.63,1781.33
+lenevo,WorkStation,2K,Intel Core i7,8GB,SSHD,NVIDIA GeForce GTX 1650,No OS,13,3.28,2460.96
+hp,2 in 1 Convertible,4K,Intel Atom x5-Z8550,16GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,15,2.74,3329.66
+Chuwi,Gaming,Full HD,Intel Core i9,12GB,SATA SSD,AMD Radeon RX 5600M,Windows 11,15,2.61,3043.63
+hp,NoteBook,Full HD,Intel Core i5,16GB,HDD,AMD Radeon RX 5600M,Linux,13,2.09,3738.77
+MSI,NoteBook,4K,Intel Core i5,12GB,eMMC,Intel Iris Xe Graphics,macOS,11,4.19,1717.28
+Apple,2 in 1 Convertible,4K,Intel Xeon E3-1505M ,8GB,HDD,NVIDIA GeForce GTX 1650,No OS,16,4.37,3133.43
+Microsoft,Gaming,Full HD,Intel Core i5,4GB,eMMC,Intel Iris Xe Graphics,Linux,18,4.72,1801.2
+lenevo,2 in 1 Convertible,4K,AMD Ryzen 7,8GB,SSD,AMD Radeon RX 5600M,Windows 10,11,4.62,3785.69
+hp,UltraBook,Full HD,Intel Core i5,8GB,SSD,AMD Radeon RX 5600M,Linux,11,4.46,3749.23
+hp,Business Laptop,4K,Intel Core i7,8GB,SATA SSD,Intel Iris Xe Graphics,macOS,18,4.19,3549.33
+Apple,Gaming,2K,Intel Atom x5-Z8550,4GB,eMMC,AMD Radeon RX 5600M,Windows 11,12,3.7,3232.08
+Apple,WorkStation,4K,Intel Core i9,16GB,Flash Storage,NVIDIA GeForce GTX 1650,Windows 11,14,4.56,3486.75
+Dell,Gaming,4K,AMD Ryzen 7,8GB,HDD,Intel Iris Xe Graphics,macOS,18,2.04,5551.3
+MSI,Gaming,Full HD,AMD Ryzen 5,16GB,HDD,NVIDIA GeForce GTX 1650,macOS,13,2.14,3794.85
+MSI,NoteBook,4K,Intel Core i5,16GB,Flash Storage,NVIDIA GeForce GTX 1650,Windows 10,15,2.93,2858.69
+Chuwi,NoteBook,Full HD,Intel Pentium Quad Core N4200,4GB,SSD,NVIDIA GeForce GTX 1650,Linux,13,3.96,2290.02
+Asus,UltraBook,4K,Intel Atom x5-Z8550,16GB,SSD,AMD Radeon RX 5600M,No OS,17,2.3,2229.62
+MSI,WorkStation,Full HD,Intel Atom x5-Z8550,16GB,eMMC,NVIDIA GeForce GTX 1650,macOS,12,4.7,2565.4
+Asus,2 in 1 Convertible,Full HD,AMD Ryzen 7,8GB,HDD,NVIDIA GeForce GTX 1650,Windows 10,13,3.09,3196.59
+Microsoft,Gaming,4K,Intel Core i5,8GB,eMMC,NVIDIA GeForce GTX 1650,macOS,18,4.93,3575.94
+Chuwi,NoteBook,Full HD,AMD Ryzen 5,8GB,SSD,AMD Radeon RX 5600M,No OS,12,2.22,2117.19
+lenevo,UltraBook,4K,Intel Core i9,8GB,SSD,NVIDIA GeForce GTX 1650,No OS,15,4.89,2990.4
+MSI,UltraBook,4K,Intel Core i5,12GB,SSD,NVIDIA GeForce GTX 1650,No OS,11,4.93,2198.69
+MSI,Business Laptop,4K,Intel Core i7,12GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,15,3.7,3200.14
+Apple,UltraBook,4K,AMD A9-Series 9420,8GB,SSD,AMD Radeon RX 5600M,Windows 11,16,3.97,3516.32
+Dell,UltraBook,Full HD,AMD Ryzen 5,8GB,Fusion Drive,AMD Radeon RX 5600M,Windows 11,15,3.87,4905.36
+Apple,Gaming,Full HD,AMD A9-Series 9420,4GB,SSD,AMD Radeon RX 5600M,macOS,14,2.34,2882.61
+Dell,WorkStation,Full HD,Intel Core i9,16GB,HDD,AMD Radeon RX 5600M,macOS,11,3.45,3106.97
+Microsoft,Gaming,2K,Intel Pentium Quad Core N4200,8GB,HDD,Intel Iris Xe Graphics,No OS,15,3.44,3346.54
+Chuwi,2 in 1 Convertible,Full HD,AMD A9-Series 9420,12GB,SSD,Intel Iris Xe Graphics,Windows 11,13,2.65,2495.56
+lenevo,2 in 1 Convertible,Full HD,AMD Ryzen 7,4GB,SSD,NVIDIA GeForce GTX 1650,No OS,15,3.39,1894.92
+Microsoft,NoteBook,Full HD,Intel Pentium Quad Core N4200,12GB,Fusion Drive,NVIDIA GeForce GTX 1650,Linux,15,2.99,2277.71
+hp,NoteBook,Full HD,AMD Ryzen 5,4GB,eMMC,Intel Iris Xe Graphics,No OS,17,4.82,2902.45
+MSI,NoteBook,Full HD,AMD A9-Series 9420,12GB,SSD,NVIDIA GeForce GTX 1650,No OS,14,2.81,2781.6
+hp,2 in 1 Convertible,Full HD,Intel Core i9,12GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,15,4.36,4016.45
+lenevo,UltraBook,4K,Intel Core i9,4GB,HDD,NVIDIA GeForce GTX 1650,Linux,14,3.7,1964.55
+Chuwi,NoteBook,2K,Intel Core i5,8GB,SSHD,Intel Iris Xe Graphics,No OS,16,2.8,2108.03
+MSI,WorkStation,4K,AMD Ryzen 7,4GB,SSD,Intel Iris Xe Graphics,Linux,18,4.13,3550.15
+MSI,WorkStation,Full HD,Intel Core i5,16GB,SSD,Intel Iris Xe Graphics,No OS,11,3.33,3217.05
+Microsoft,Gaming,4K,Intel Core i5,8GB,SSD,Intel Iris Xe Graphics,Windows 11,16,2.63,3522.68
+Apple,WorkStation,4K,Intel Core i5,16GB,HDD,AMD Radeon RX 5600M,Windows 11,16,2.56,3613.96
+Chuwi,Gaming,Full HD,AMD Ryzen 7,16GB,SSD,NVIDIA GeForce GTX 1650,macOS,11,3.37,2439.41
+Acer,Gaming,Full HD,Intel Pentium Quad Core N4200,16GB,SSD,NVIDIA GeForce GTX 1650,Linux,17,3.75,1975.99
+Microsoft,Business Laptop,Full HD,Intel Pentium Quad Core N4200,16GB,SSD,NVIDIA GeForce GTX 1650,macOS,16,3.36,3819.56
+hp,Gaming,Full HD,Intel Xeon E3-1505M ,12GB,eMMC,AMD Radeon RX 5600M,No OS,17,2.91,4244.53
+Acer,Business Laptop,4K,AMD A9-Series 9420,8GB,SSD,Intel Iris Xe Graphics,Linux,15,4.03,3431.86
+MSI,WorkStation,4K,Intel Core i9,16GB,SATA SSD,AMD Radeon RX 5600M,No OS,12,4.03,2601.81
+Chuwi,Gaming,Full HD,Intel Core i7,8GB,HDD,Intel Iris Xe Graphics,Windows 10,16,4.88,2760.24
+Microsoft,2 in 1 Convertible,Full HD,AMD Ryzen 7,12GB,HDD,NVIDIA GeForce GTX 1650,Windows 10,16,4.1,2653.06
+Chuwi,Business Laptop,Full HD,AMD Ryzen 5,16GB,HDD,Intel Iris Xe Graphics,Linux,16,2.33,2212.84
+lenevo,UltraBook,Full HD,Intel Xeon E3-1505M ,4GB,SSD,NVIDIA GeForce GTX 1650,No OS,13,2.34,2301.78
+Dell,UltraBook,Full HD,Intel Xeon E3-1505M ,12GB,SSD,AMD Radeon RX 5600M,macOS,17,2.92,3837.1
+lenevo,NoteBook,2K,Intel Atom x5-Z8550,8GB,HDD,AMD Radeon RX 5600M,macOS,16,2.57,3677.06
+Chuwi,Gaming,Full HD,AMD A9-Series 9420,16GB,SSD,AMD Radeon RX 5600M,Windows 11,17,2.62,3102.81
+MSI,Business Laptop,4K,Intel Atom x5-Z8550,8GB,Fusion Drive,NVIDIA GeForce GTX 1650,macOS,14,3.15,2690.72
+MSI,Gaming,4K,Intel Core i5,12GB,SSD,NVIDIA GeForce GTX 1650,macOS,15,2.13,1884.01
+Apple,Gaming,Full HD,Intel Core i7,8GB,HDD,NVIDIA GeForce GTX 1650,macOS,12,3.63,2233.38
+Acer,NoteBook,2K,AMD Ryzen 7,12GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,12,2.33,3865.13
+Dell,Gaming,4K,Intel Xeon E3-1505M ,4GB,SSD,AMD Radeon RX 5600M,Windows 10,14,2.41,2039.58
+Chuwi,UltraBook,4K,Intel Celeron Dual Core 3855U ,8GB,SSD,Intel Iris Xe Graphics,Windows 11,16,3.9,2124.63
+Chuwi,NoteBook,4K,Intel Atom x5-Z8550,12GB,eMMC,AMD Radeon RX 5600M,No OS,11,4.61,2747.1
+lenevo,UltraBook,Full HD,Intel Xeon E3-1505M ,8GB,SSD,NVIDIA GeForce GTX 1650,macOS,13,2.4,3212.32
+Apple,UltraBook,4K,AMD Ryzen 5,8GB,HDD,NVIDIA GeForce GTX 1650,macOS,14,4.72,3054.41
+Microsoft,2 in 1 Convertible,Full HD,Intel Celeron Dual Core 3855U ,4GB,SATA SSD,NVIDIA GeForce GTX 1650,Windows 10,15,2.67,3590.76
+Chuwi,NoteBook,Full HD,Intel Xeon E3-1505M ,4GB,Flash Storage,AMD Radeon RX 5600M,Windows 10,16,3.73,2203.26
+Microsoft,2 in 1 Convertible,2K,Intel Pentium Quad Core N4200,8GB,SATA SSD,Intel Iris Xe Graphics,No OS,14,2.54,2682.91
+Asus,Business Laptop,Full HD,AMD A9-Series 9420,16GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,14,2.25,3854.06
+Asus,WorkStation,4K,Intel Core i9,16GB,Fusion Drive,NVIDIA GeForce GTX 1650,Windows 10,18,3.56,1827.77
+lenevo,NoteBook,Full HD,AMD A9-Series 9420,8GB,eMMC,Intel Iris Xe Graphics,Windows 11,15,3.17,2197.75
+MSI,NoteBook,Full HD,Intel Atom x5-Z8550,12GB,eMMC,AMD Radeon RX 5600M,macOS,13,4.45,2893.65
+Dell,NoteBook,4K,Intel Core i7,16GB,SSD,NVIDIA GeForce GTX 1650,macOS,12,2.34,2741.64
+Asus,2 in 1 Convertible,4K,Intel Core i7,4GB,SSD,NVIDIA GeForce GTX 1650,Linux,17,3.07,3933.15
+MSI,NoteBook,Full HD,Intel Celeron Dual Core 3855U ,16GB,SSHD,NVIDIA GeForce GTX 1650,No OS,13,4.02,3637.6
+Dell,WorkStation,Full HD,Intel Xeon E3-1505M ,8GB,SSD,AMD Radeon RX 5600M,Linux,18,3.45,4787.02
+Microsoft,Business Laptop,4K,AMD Ryzen 7,12GB,HDD,AMD Radeon RX 5600M,No OS,16,2.17,2079.23
+Apple,2 in 1 Convertible,2K,AMD Ryzen 7,8GB,Fusion Drive,AMD Radeon RX 5600M,Windows 11,12,2.85,2646.65
+Apple,2 in 1 Convertible,Full HD,AMD Ryzen 5,16GB,SSD,Intel Iris Xe Graphics,Windows 11,13,2.35,2394.89
+Chuwi,WorkStation,4K,Intel Atom x5-Z8550,8GB,SSD,AMD Radeon RX 5600M,macOS,15,2.57,2403.74
+lenevo,Business Laptop,Full HD,Intel Pentium Quad Core N4200,4GB,eMMC,NVIDIA GeForce GTX 1650,macOS,16,3.32,3334.49
+Microsoft,UltraBook,Full HD,Intel Atom x5-Z8550,8GB,SSD,Intel Iris Xe Graphics,Windows 10,13,3.99,3310.89
+MSI,WorkStation,4K,Intel Pentium Quad Core N4200,8GB,SSD,Intel Iris Xe Graphics,Linux,12,4.15,3907.71
+Dell,2 in 1 Convertible,Full HD,Intel Celeron Dual Core 3855U ,12GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,12,2.01,2841.16
+MSI,Business Laptop,Full HD,AMD Ryzen 7,12GB,Fusion Drive,Intel Iris Xe Graphics,Linux,16,2.18,2702.35
+Acer,Gaming,2K,Intel Pentium Quad Core N4200,4GB,SSD,AMD Radeon RX 5600M,Windows 10,13,3.14,2879.75
+MSI,Business Laptop,2K,AMD Ryzen 5,8GB,HDD,Intel Iris Xe Graphics,Linux,12,2.79,2743.25
+Acer,UltraBook,Full HD,Intel Xeon E3-1505M ,12GB,SSD,Intel Iris Xe Graphics,macOS,11,2.32,2494.8
+Acer,Business Laptop,4K,Intel Atom x5-Z8550,4GB,SSD,Intel Iris Xe Graphics,Windows 10,17,4.88,3301.99
+MSI,Gaming,4K,AMD Ryzen 5,12GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,13,2.35,2136.6
+lenevo,Business Laptop,4K,Intel Core i7,12GB,HDD,AMD Radeon RX 5600M,No OS,13,3.06,3309.7
+lenevo,WorkStation,2K,Intel Atom x5-Z8550,8GB,HDD,Intel Iris Xe Graphics,No OS,16,2.55,3715.85
+hp,UltraBook,2K,AMD Ryzen 7,12GB,SSD,NVIDIA GeForce GTX 1650,macOS,17,3.82,3781.12
+Asus,Business Laptop,Full HD,Intel Pentium Quad Core N4200,12GB,SSD,NVIDIA GeForce GTX 1650,No OS,13,2.56,2551.79
+Microsoft,2 in 1 Convertible,2K,Intel Celeron Dual Core 3855U ,4GB,HDD,NVIDIA GeForce GTX 1650,Windows 11,15,4.48,1752.06
+hp,2 in 1 Convertible,2K,Intel Core i9,4GB,eMMC,AMD Radeon RX 5600M,macOS,16,3.4,1809.63
+Asus,2 in 1 Convertible,4K,Intel Celeron Dual Core 3855U ,8GB,SSD,AMD Radeon RX 5600M,No OS,16,3.55,3490.64
+MSI,WorkStation,4K,Intel Celeron Dual Core 3855U ,4GB,SSD,Intel Iris Xe Graphics,Windows 10,17,2.35,3184.47
+lenevo,Business Laptop,Full HD,AMD A9-Series 9420,16GB,HDD,NVIDIA GeForce GTX 1650,macOS,13,2.23,1992.14
+hp,Gaming,4K,Intel Celeron Dual Core 3855U ,8GB,SSD,NVIDIA GeForce GTX 1650,Linux,14,3.78,2855.66
+MSI,UltraBook,Full HD,Intel Celeron Dual Core 3855U ,12GB,SSD,AMD Radeon RX 5600M,macOS,12,3.84,1785.8
+Microsoft,WorkStation,Full HD,Intel Pentium Quad Core N4200,8GB,eMMC,Intel Iris Xe Graphics,Windows 10,16,3.14,3017.97
+Acer,UltraBook,Full HD,Intel Core i9,8GB,SSD,AMD Radeon RX 5600M,Windows 10,16,4.01,3988.65
+Chuwi,Business Laptop,Full HD,Intel Pentium Quad Core N4200,12GB,SSD,AMD Radeon RX 5600M,Linux,13,4.58,2754.46
+Chuwi,Business Laptop,2K,Intel Core i9,4GB,SSD,Intel Iris Xe Graphics,Windows 11,13,3.24,2803.3
+Microsoft,WorkStation,4K,AMD A9-Series 9420,4GB,SSD,AMD Radeon RX 5600M,macOS,12,4.68,2217.62
+hp,Business Laptop,2K,Intel Pentium Quad Core N4200,12GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,15,2.06,4542.81
+Asus,Business Laptop,4K,Intel Pentium Quad Core N4200,8GB,SSD,AMD Radeon RX 5600M,Windows 11,17,4.1,2910.43
+Apple,2 in 1 Convertible,Full HD,Intel Core i5,4GB,Flash Storage,Intel Iris Xe Graphics,macOS,18,4.15,2304.99
+lenevo,Gaming,Full HD,Intel Pentium Quad Core N4200,4GB,SATA SSD,Intel Iris Xe Graphics,No OS,13,4.97,3408.97
+Asus,UltraBook,2K,AMD A9-Series 9420,4GB,SSD,NVIDIA GeForce GTX 1650,macOS,15,3.98,3906.14
+Microsoft,WorkStation,Full HD,Intel Core i5,16GB,SSD,Intel Iris Xe Graphics,Windows 11,13,3.49,3952.13
+hp,UltraBook,4K,AMD Ryzen 5,16GB,HDD,AMD Radeon RX 5600M,No OS,14,4.94,1730.39
+Microsoft,Gaming,Full HD,Intel Core i5,4GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,11,3.53,3322.78
+Microsoft,WorkStation,2K,Intel Celeron Dual Core 3855U ,8GB,Flash Storage,Intel Iris Xe Graphics,No OS,17,4.35,2502.11
+lenevo,Gaming,4K,Intel Xeon E3-1505M ,12GB,SSD,AMD Radeon RX 5600M,Windows 10,13,3.76,3980.54
+MSI,Business Laptop,4K,AMD Ryzen 7,12GB,SSD,AMD Radeon RX 5600M,Windows 10,14,3.18,3635.12
+Apple,WorkStation,4K,AMD Ryzen 5,4GB,SSD,Intel Iris Xe Graphics,macOS,15,3.77,2681.12
+Dell,UltraBook,Full HD,Intel Atom x5-Z8550,4GB,SSD,NVIDIA GeForce GTX 1650,Windows 11,13,3.59,3787.15
+MSI,NoteBook,Full HD,Intel Atom x5-Z8550,16GB,SSD,AMD Radeon RX 5600M,No OS,17,3.37,1844.77
+Chuwi,WorkStation,Full HD,Intel Atom x5-Z8550,4GB,eMMC,Intel Iris Xe Graphics,macOS,16,3.1,2815.93
+Acer,Business Laptop,Full HD,AMD A9-Series 9420,12GB,SATA SSD,Intel Iris Xe Graphics,Windows 10,12,2.48,2314.57
+MSI,UltraBook,Full HD,Intel Core i9,4GB,SSD,NVIDIA GeForce GTX 1650,No OS,15,4.29,2338.49
+lenevo,UltraBook,4K,Intel Xeon E3-1505M ,8GB,SSD,NVIDIA GeForce GTX 1650,macOS,18,2.75,1923.83
+Microsoft,NoteBook,Full HD,Intel Core i9,4GB,SATA SSD,Intel Iris Xe Graphics,No OS,14,2.17,3184.84
+hp,Business Laptop,Full HD,Intel Xeon E3-1505M ,8GB,HDD,AMD Radeon RX 5600M,macOS,16,3.78,2842.63
+hp,Gaming,Full HD,AMD A9-Series 9420,8GB,SSD,AMD Radeon RX 5600M,Windows 10,16,4.69,2294.51
+Microsoft,WorkStation,4K,Intel Celeron Dual Core 3855U ,8GB,SATA SSD,NVIDIA GeForce GTX 1650,macOS,17,3.93,3264.54
+lenevo,NoteBook,Full HD,AMD Ryzen 7,16GB,SSD,NVIDIA GeForce GTX 1650,Windows 10,14,4.05,2748.23
+Asus,UltraBook,4K,Intel Core i9,12GB,Fusion Drive,Intel Iris Xe Graphics,No OS,11,3.67,3358.81
+Dell,NoteBook,Full HD,Intel Celeron Dual Core 3855U ,4GB,HDD,Intel Iris Xe Graphics,No OS,11,4.8,3640.82
