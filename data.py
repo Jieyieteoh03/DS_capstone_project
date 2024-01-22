@@ -5,18 +5,14 @@ import plotly.express as px
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-def data():
-    # st.title('Data Cleaning')
-    
-    df1 = pd.read_csv('laptops.csv', index_col=0)
-    df = pd.read_csv('new_laptop.csv', index_col=0)
+def data():    
+    df1 = pd.read_csv('laptops.csv', index_col=None)
+    df = pd.read_csv('new_laptop.csv', index_col=None)
    
     st.subheader('Before Data Cleaning')
     st.dataframe(df1)
     
     st.subheader('After Data Cleaning')
     st.dataframe(df)
-    
-  
         
     
