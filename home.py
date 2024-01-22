@@ -8,6 +8,7 @@ from ml import ml
 
 def main():
     st.title('Laptop Price')
+    st.subheader('Name: Teoh Jie Yie')
     menu = ['Home', 'Objective', 'Methodology','Data Cleaning', 'EDA', 'ML']
     choice = st.sidebar.selectbox('Menu', menu)
     if choice == 'Home':
